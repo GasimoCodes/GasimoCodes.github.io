@@ -8,3 +8,32 @@
 {
     color: $dark;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    overflow-wrap: break-word;
+}
+
+p {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    overflow-wrap: break-word;
+}
+
+$text-sizes: (
+  s: small,
+  m: medium,
+  l: large,
+  xl: x-large,
+  xxl: xx-large,
+  xxxl: 40px,
+);
+
+
+// Generate color variations
+@each $variation, $size in $text-sizes {
+    .text-#{$variation} {
+      font-size: $size;
+    }
+  }
