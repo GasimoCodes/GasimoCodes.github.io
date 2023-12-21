@@ -9,16 +9,28 @@
     color: $dark;
 }
 
+.text-light
+{
+    color: $light;
+}
+
+.text-light2
+{
+    color: $light2;
+}
+
 h1, h2, h3, h4, h5, h6 {
     margin-top: 12px;
     margin-bottom: 12px;
     overflow-wrap: break-word;
+    color: $dark;
 }
 
 p {
     margin-top: 4px;
     margin-bottom: 4px;
     overflow-wrap: break-word;
+    color: $dark;
 }
 
 $text-sizes: (
