@@ -12,6 +12,10 @@
 .text-light
 {
     color: $light;
+    
+    & h1,h2,h3,h4,h5,p {
+        color: $light;
+    }    
 }
 
 .text-light2
