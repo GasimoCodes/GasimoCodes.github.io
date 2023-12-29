@@ -253,6 +253,10 @@ img {
   max-width: 100%;
 }
 
+.game-logo {
+  max-width: 30%;
+}
+
 .circle-img {
   border-radius: 100%;
   display: flex;
