@@ -133,12 +133,33 @@ img {
 }
 
 .panel {
-  padding: 30px;
-  background-color: $white;
+  //padding: 30px;
+  //background-color: $white;
   min-width: 5em;
   min-height: 30em;
   overflow: hidden;
   display: flex;
+
+  filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0.0));
+
+  div {
+    display: inline-block;
+    align-self: flex-end;
+  }
+
+
+  text-decoration: none;
+
+
+}
+
+.blog-panel {
+  background-color: $white;
+  overflow: hidden;
+  display: flex;
+
+  margin-bottom: 2em;
+
 
   filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0.0));
 
@@ -177,6 +198,16 @@ img {
   }
 }
 
+#logo {
+
+  img {
+    outline-color: $light;
+    outline-width: 0px;
+    outline-style: inset;
+  }
+
+}
+
 /* Button */
 .button {
   display: inline-block;
@@ -184,4 +215,42 @@ img {
   text-align: center;
   background-color: #D9D9D9;
   padding: 1rem;
+
+  color: $purple;
+  text-decoration: none;
+}
+
+
+table {
+  border-collapse: collapse;
+  /* Ensure cell borders are collapsed */
+  width: 100%;
+
+  th {
+    background-color: $dark;
+    color: $light;
+  }
+
+  td,
+  th {
+    border: 1px solid $dark;
+    padding: 8px;
+  }
+}
+
+.list-boxed {
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  li {
+    margin-top: 0.5em; // Add margin to top-level li elements
+    padding: 10px;
+    background-color: $light;
+  }
+
+  li > li {
+    margin-top: 0; // Remove margin for nested li elements
+  }
 }

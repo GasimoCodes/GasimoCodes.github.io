@@ -3,7 +3,8 @@ $light: #f7f7f7;
 $light2: #bdbdbd;
 $light3: #8a8a8a;
 $dark: #222;
-$purple: #9747FF;
+$purple: #7c3bd1;
+$blue: #4769ff;
 
 
 
@@ -12,6 +13,7 @@ $color-variations: (
   light: $light,
   dark: $dark,
   purple: $purple,
+  blue: $blue,
   transparent: transparent,
 );
 
