@@ -64,7 +64,7 @@ body {
   }
 
   li a:hover:not(.active) {
-    opacity: 90%;
+    opacity: 0.9;
   }
 
   .active {
@@ -81,8 +81,6 @@ body {
     display: block;
     width: 100%;
     height: 100%;
-
-    @include dithered-gradient(90%, 80%, 300%, $purple);
   }
 }
 
