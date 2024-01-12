@@ -3,7 +3,7 @@ author: "Gasimo"
 title: "Ether Devlog 0"
 date: 2023-09-05
 tags: ["Ether", "Devlog"]
-thumbnail: https://img.itch.zone/aW1nLzE0NjM4MDE2LnBuZw==/original/AaIhU%2B.png
+thumbnail: https://img.itch.zone/aW1nLzE0NjM4MTA1LnBuZw==/original/tNM%2BeT.png
 ---
 
 Heya everyone!
