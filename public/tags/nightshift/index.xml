@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nightshift on Gasimo</title>
+    <link>https://gasimo.dev/tags/nightshift/</link>
+    <description>Recent content in Nightshift on Gasimo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gasimo.dev/tags/nightshift/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech behind Ječná Part 3: Subtitles</title>
+      <link>https://gasimo.dev/blog/nightshifttech2/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/nightshifttech2/</guid>
+      <description>Hello everyone! Welcome to today&amp;rsquo;s devtalk! In this session, we&amp;rsquo;ll be delving into the fascinating realm of subtitles.&#xA;Subtitler The entirety of my subtitle system (conveniently nicknamed &amp;ldquo;Subtitler&amp;rdquo;) is open-source and available over at my github&#xD;!&#xA;During development, I quickly realized that some in-game dialogue may be hard to hear. Implementing a subtitle system was the most obvious solution. However, as the game scaled, it turned out to be a bit more complex than I initially anticipated.</description>
+    </item>
+    <item>
+      <title>Tech behind Ječná Part 2: Environment</title>
+      <link>https://gasimo.dev/blog/nightshifttech3/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/nightshifttech3/</guid>
+      <description>Heya everyone! It&amp;rsquo;s time for a healthy dose of tech talk, where I rant about how I developed Nightshift. This time we are looking at the graphics, environment, and optimization efforts in Nightshift (This will not cover ray-tracing as that was more of an experiment than a feature, and is currently not even performant enough to be considered usable).&#xA;Lighting Ječná Nightshift environment is lit by various artificial lights ranging from hallway lamps, monitors, and flashlight down to table lamps.</description>
+    </item>
+    <item>
+      <title>Tech behind Ječná Part 1: Interaction System</title>
+      <link>https://gasimo.dev/blog/nightshifttech1/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/nightshifttech1/</guid>
+      <description>Greetings everyone! Its time for some Gasimo Tech Tips, where I rant about some of the systems I have developed for Nightshift (some are open-sourced over at my github!). This one focuses on the interaction framework.&#xA;Interaction System This is one of the first components I have developed for Nightshift back in the day where it was just a demonstration student project. I wanted to get rid of the commonly used raycast-based system, which plagues the majority of first person indie horror games.</description>
+    </item>
+  </channel>
+</rss>
