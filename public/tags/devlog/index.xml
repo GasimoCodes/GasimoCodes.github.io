@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devlog on Gasimo</title>
+    <link>https://example.org/tags/devlog/</link>
+    <description>Recent content in Devlog on Gasimo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/devlog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ether Devlog 3</title>
+      <link>https://example.org/blog/etherdev3/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/blog/etherdev3/</guid>
+      <description>[This post was exclusively available ahead of time to my Patrons Vaipu, Walpar and Kyle]&#xA;Heloooooo Patrons!! Its that time of the month again! This month was quite an eventful one for Ether. I made a bunch of both graphical and gameplay improvements. Lets go one by one.&#xA;Bunker The bunker has received a major lighting redo and some layout updates to better serve gameplay. The player now needs to go into a bigger control room to use the computer and fancy instruments.</description>
+    </item>
+    <item>
+      <title>Ether Devlog 2</title>
+      <link>https://example.org/blog/etherdev2/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/blog/etherdev2/</guid>
+      <description>(This post&#xD;was released 3 days ago to my supporters over at Patreon: Walpar, Vaipu and Kyle!)&#xA;Hello everyone!&#xA;During the last 20 days Ive put some work into the environment. The blocky prototyping aesthetic of the previous devlog just wasnt fun enough to walk through during development.&#xA;As part of the visual update, the CRT monitor(s) in the base got a new CRTish shader which I made to mimick the effect when you move your camera close to the monitor (The effect fades with distance to prevent it from distracting the player)</description>
+    </item>
+    <item>
+      <title>Ether Devlog 1</title>
+      <link>https://example.org/blog/etherdev1/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/blog/etherdev1/</guid>
+      <description>Heya everyone!&#xA;Its time to update you a bit on progress I made on Ether since last update. This is my first week at the university and the math is rather taxing so excuse the next devlog being shorter or delayed.&#xA;Ive managed to create a pretty fast and extendable event system for the game, which allows me to run various in-game events based on day, current time or even to schedule events randomly based on criteria for some replay value!</description>
+    </item>
+    <item>
+      <title>Ether Devlog 0</title>
+      <link>https://example.org/blog/etherdev0/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/blog/etherdev0/</guid>
+      <description>Heya everyone!&#xA;Its time to update you a bit on progress I made on Ether since last update. This is my first week at the university and the math is rather taxing so excuse the next devlog being shorter or delayed.&#xA;Ive managed to create a pretty fast and extendable event system for the game, which allows me to run various in-game events based on day, current time or even to schedule events randomly based on criteria for some replay value!</description>
+    </item>
+  </channel>
+</rss>
