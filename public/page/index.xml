@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Gasimo</title>
-    <link>https://example.org/page/</link>
+    <link>https://gasimo.dev/page/</link>
     <description>Recent content in Pages on Gasimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gasimo.dev/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://example.org/page/about/</link>
+      <link>https://gasimo.dev/page/about/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/page/about/</guid>
+      <guid>https://gasimo.dev/page/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0.&#xD;Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark&#xD;https://github.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://example.org/page/games/</link>
+      <link>https://gasimo.dev/page/games/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/page/games/</guid>
+      <guid>https://gasimo.dev/page/games/</guid>
       <description></description>
     </item>
   </channel>
