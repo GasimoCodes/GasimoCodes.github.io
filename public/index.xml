@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home of Katheryn Fox on Gasimo</title>
+    <title>Home on Gasimo</title>
     <link>https://gasimo.dev/</link>
-    <description>Recent content in Home of Katheryn Fox on Gasimo</description>
+    <description>Recent content in Home on Gasimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gasimo.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ether Devlog 3</title>
@@ -37,28 +37,7 @@
       <description>Heya everyone!&#xA;Its time to update you a bit on progress I made on Ether since last update. This is my first week at the university and the math is rather taxing so excuse the next devlog being shorter or delayed.&#xA;Ive managed to create a pretty fast and extendable event system for the game, which allows me to run various in-game events based on day, current time or even to schedule events randomly based on criteria for some replay value!</description>
     </item>
     <item>
-      <title>About Me</title>
-      <link>https://gasimo.dev/about/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0.&#xD;Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark&#xD;https://github.</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>https://gasimo.dev/page/about/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/page/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0.&#xD;Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark&#xD;https://github.</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>https://gasimo.dev/page/games/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/page/games/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>About Me</title>
+      <title>Games</title>
       <link>https://gasimo.dev/games/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/games/</guid>

@@ -1,5 +1,5 @@
 ---
-author: Katheryn Fox
-title: About Me
+author: Gasimo
+title: Games
 type: games
 ---

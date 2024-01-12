@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gasimo.dev/</loc>
+    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gasimo.dev/blog/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -26,23 +29,8 @@
     <loc>https://gasimo.dev/blog/etherdev0/</loc>
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/about/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gasimo.dev/page/about/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gasimo.dev/page/games/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gasimo.dev/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gasimo.dev/page/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <loc>https://gasimo.dev/categories/</loc>
   </url><url>
     <loc>https://gasimo.dev/games/</loc>
-  </url><url>
-    <loc>https://gasimo.dev/categories/</loc>
   </url>
 </urlset>
