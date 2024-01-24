@@ -1,7 +1,7 @@
 ---
 author: "Gasimo"
 title: "Ether Devlog 4"
-date: 2024-01-31
+date: 2024-01-24
 tags: ["Ether", "Devlog"]
 thumbnail: https://img.itch.zone/aW1nLzE0Nzc0Mzc0LmpwZw==/original/Mey%2FIy.jpg
 ---

@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Gasimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gasimo.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ether Devlog 4</title>
+      <link>https://gasimo.dev/blog/etherdev4/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev4/</guid>
+      <description>Heyos Everyone! Its a new year and alongside it comes a new Ether devlog. (This post was released a week in advance for my Patrons Walpar, Kyle, Pitti and Vaipu!&#xD;)&#xA;Terrain Change The map is receiving a major redo. I wanted to make the &amp;lsquo;home&amp;rsquo; island bigger, mountains taller and environment more natural and faithful to Greenland. This also allows me to fit more landmarks to explore for the player.</description>
+    </item>
     <item>
       <title>Ether Devlog 3</title>
       <link>https://gasimo.dev/blog/etherdev3/</link>

@@ -6,11 +6,10 @@
   <link rel="icon" href="/logo.png">
 
   <title>
-  Tech behind Ječná Part 3: Subtitles - Gasimo
+  Ether Devlog 4 - Gasimo
   </title>
-  <meta name="description" content="Hello everyone! Welcome to today&rsquo;s devtalk! In this session, we&rsquo;ll be delving into the fascinating realm of subtitles.
-Subtitler The entirety of my subtitle system (conveniently nicknamed &ldquo;Subtitler&rdquo;) is open-source and available over at my github!
-During development, I quickly realized that some in-game dialogue may be hard to hear. Implementing a subtitle system was the most obvious solution. However, as the game scaled, it turned out to be a bit more complex than I initially anticipated." />
+  <meta name="description" content="Heyos Everyone! Its a new year and alongside it comes a new Ether devlog. (This post was released a week in advance for my Patrons Walpar, Kyle, Pitti and Vaipu!)
+Terrain Change The map is receiving a major redo. I wanted to make the &lsquo;home&rsquo; island bigger, mountains taller and environment more natural and faithful to Greenland. This also allows me to fit more landmarks to explore for the player." />
   <meta name="author" content="Gasimo" />
   <meta name="generator" content="Hugo 0.121.2"><link
     rel="stylesheet"
@@ -24,28 +23,25 @@ During development, I quickly realized that some in-game dialogue may be hard to
   
   
 
-  <meta property="og:title" content="Tech behind Ječná Part 3: Subtitles" />
-<meta property="og:description" content="Hello everyone! Welcome to today&rsquo;s devtalk! In this session, we&rsquo;ll be delving into the fascinating realm of subtitles.
-Subtitler The entirety of my subtitle system (conveniently nicknamed &ldquo;Subtitler&rdquo;) is open-source and available over at my github!
-During development, I quickly realized that some in-game dialogue may be hard to hear. Implementing a subtitle system was the most obvious solution. However, as the game scaled, it turned out to be a bit more complex than I initially anticipated." />
+  <meta property="og:title" content="Ether Devlog 4" />
+<meta property="og:description" content="Heyos Everyone! Its a new year and alongside it comes a new Ether devlog. (This post was released a week in advance for my Patrons Walpar, Kyle, Pitti and Vaipu!)
+Terrain Change The map is receiving a major redo. I wanted to make the &lsquo;home&rsquo; island bigger, mountains taller and environment more natural and faithful to Greenland. This also allows me to fit more landmarks to explore for the player." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://gasimo.dev/blog/nightshifttech2/" /><meta property="article:section" content="blog" />
-<meta property="article:published_time" content="2023-11-20T00:00:00+00:00" />
-<meta property="article:modified_time" content="2023-11-20T00:00:00+00:00" />
+<meta property="og:url" content="https://gasimo.dev/blog/etherdev4/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2024-01-24T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-01-24T00:00:00+00:00" />
 
 
-  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Tech behind Ječná Part 3: Subtitles"/>
-<meta name="twitter:description" content="Hello everyone! Welcome to today&rsquo;s devtalk! In this session, we&rsquo;ll be delving into the fascinating realm of subtitles.
-Subtitler The entirety of my subtitle system (conveniently nicknamed &ldquo;Subtitler&rdquo;) is open-source and available over at my github!
-During development, I quickly realized that some in-game dialogue may be hard to hear. Implementing a subtitle system was the most obvious solution. However, as the game scaled, it turned out to be a bit more complex than I initially anticipated."/>
+  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Ether Devlog 4"/>
+<meta name="twitter:description" content="Heyos Everyone! Its a new year and alongside it comes a new Ether devlog. (This post was released a week in advance for my Patrons Walpar, Kyle, Pitti and Vaipu!)
+Terrain Change The map is receiving a major redo. I wanted to make the &lsquo;home&rsquo; island bigger, mountains taller and environment more natural and faithful to Greenland. This also allows me to fit more landmarks to explore for the player."/>
 
-  <meta itemprop="name" content="Tech behind Ječná Part 3: Subtitles">
-<meta itemprop="description" content="Hello everyone! Welcome to today&rsquo;s devtalk! In this session, we&rsquo;ll be delving into the fascinating realm of subtitles.
-Subtitler The entirety of my subtitle system (conveniently nicknamed &ldquo;Subtitler&rdquo;) is open-source and available over at my github!
-During development, I quickly realized that some in-game dialogue may be hard to hear. Implementing a subtitle system was the most obvious solution. However, as the game scaled, it turned out to be a bit more complex than I initially anticipated."><meta itemprop="datePublished" content="2023-11-20T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2023-11-20T00:00:00+00:00" />
-<meta itemprop="wordCount" content="488">
-<meta itemprop="keywords" content="Nightshift,Tech," />
+  <meta itemprop="name" content="Ether Devlog 4">
+<meta itemprop="description" content="Heyos Everyone! Its a new year and alongside it comes a new Ether devlog. (This post was released a week in advance for my Patrons Walpar, Kyle, Pitti and Vaipu!)
+Terrain Change The map is receiving a major redo. I wanted to make the &lsquo;home&rsquo; island bigger, mountains taller and environment more natural and faithful to Greenland. This also allows me to fit more landmarks to explore for the player."><meta itemprop="datePublished" content="2024-01-24T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2024-01-24T00:00:00+00:00" />
+<meta itemprop="wordCount" content="274">
+<meta itemprop="keywords" content="Ether,Devlog," />
 
   
 </head>
@@ -95,12 +91,12 @@ During development, I quickly realized that some in-game dialogue may be hard to
 
   
   <div class="relative max-w-5xl mx-auto px-4">
-    <img src="https://img.itch.zone/aW1hZ2UvMjMzMDgxNy8xMzgyMDIzOC5wbmc=/500x/ZJw6LR.png" class="rounded-lg shadow-sm w-full object-contain" />
+    <img src="https://img.itch.zone/aW1nLzE0Nzc0Mzc0LmpwZw==/original/Mey%2FIy.jpg" class="rounded-lg shadow-sm w-full object-contain" />
     
     <div class="absolute top-4 right-8 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white px-2 py-0.5">
       
   
-    November 20, 2023
+    January 24, 2024
   
 
 
@@ -111,7 +107,7 @@ During development, I quickly realized that some in-game dialogue may be hard to
 
   <article class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4">
 
-    <h1 class="text-2xl font-bold mb-2">Tech behind Ječná Part 3: Subtitles</h1>
+    <h1 class="text-2xl font-bold mb-2">Ether Devlog 4</h1>
     
     <h5 class="text-sm flex items-center flex-wrap">
       <svg xmlns="http://www.w3.org/2000/svg" class="mr-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -124,7 +120,7 @@ During development, I quickly realized that some in-game dialogue may be hard to
       </svg>
       Posted on 
   
-    November 20, 2023
+    January 24, 2024
   
 
 
@@ -136,7 +132,7 @@ During development, I quickly realized that some in-game dialogue may be hard to
         <circle cx="12" cy="12" r="9" />
         <polyline points="12 7 12 12 15 15" />
       </svg>
-      3&nbsp;minutes
+      2&nbsp;minutes
       &nbsp;&bull;
       <svg xmlns="http://www.w3.org/2000/svg" class="mx-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
         <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -146,7 +142,7 @@ During development, I quickly realized that some in-game dialogue may be hard to
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      488&nbsp;words
+      274&nbsp;words
       
     </h5>
     
@@ -165,84 +161,79 @@ During development, I quickly realized that some in-game dialogue may be hard to
 
         
         <li>
-        <a href="#subtitler">Subtitler</a>
-        
-
-        
-        <ul>
-            <li>
-        <a href="#defining-the-data">Defining the Data</a>
+        <a href="#terrain-change"><strong>Terrain Change</strong></a>
         
 
         
         </li><li>
-        <a href="#playing-and-displaying-the-subtitles">Playing and Displaying the Subtitles</a>
+        <a href="#upgradeables-upgrade"><strong>Upgradeables, Upgrade!</strong></a>
         
 
         
         </li><li>
-        <a href="#a-wild-problem-has-appeared">A wild problem has appeared:</a>
-        
-
-        
-        <ul>
-            <li>
-        <a href="#what-if-player-goes-away-mid-dialogue">What if player goes away mid-dialogue?</a>
+        <a href="#lore-is-being-written"><strong>Lore is being written</strong></a>
         
 
         
         </li><li>
-        <a href="#the-numerous-problems-with-the-in-game-radio-tuner">The numerous problems with the in-game radio tuner</a>
+        <a href="#clouds-and-atmosphere"><strong>Clouds and atmosphere!</strong></a>
         
 
         
         </li><li>
-        <a href="#events-when-player-hears-a-certain-line">Events when player hears a certain line?</a>
+        <a href="#beep-boop"><strong>Beep Boop!</strong></a>
+        
+
+        
+        </li><li>
+        <a href="#minor-os-improvements">Minor OS Improvements</a>
         </li></ul>
-    </li></ul>
-    </li></ul>
   </details>
 
-    <p>Hello everyone! Welcome to today&rsquo;s devtalk! In this session, we&rsquo;ll be delving into the fascinating realm of subtitles.</p>
-<h2 id="subtitler">Subtitler</h2>
-<p><img src="https://img.itch.zone/aW1nLzE0MDgyODA5LnBuZw==/original/Qj9uek.png" alt="">
-The entirety of my subtitle system (conveniently nicknamed &ldquo;Subtitler&rdquo;) is <a href="https://github.com/GasimoCodes/Subtitler" target="_blank" rel="noopener">open-source and available over at my github</a>
-!</p>
-<p>During development, I quickly realized that some in-game dialogue may be hard to hear. Implementing a subtitle system was the most obvious solution. However, as the game scaled, it turned out to be a bit more complex than I initially anticipated.</p>
-<h3 id="defining-the-data">Defining the Data</h3>
-<p>Each piece of dialogue is stored as a file, leveraging Unity&rsquo;s <a href="https://docs.unity3d.com/Manual/class-ScriptableObject.html" target="_blank" rel="noopener">ScriptableObjects</a>
-. These objects are basically data containers editable from the editor and directly parse into C# classes. The file includes an array of all spoken lines for a given dialogue and its timing data. I&rsquo;ve also incorporated additional properties, which I&rsquo;ll discuss in more detail later.</p>
-<h3 id="playing-and-displaying-the-subtitles">Playing and Displaying the Subtitles</h3>
-<p>Playing of subtitle files is handled by the <a href="https://github.com/GasimoCodes/Subtitler/blob/main/Assets/Gasimo/com.gasimo.subtitler/Runtime/Scripts/SubtitlerUI.cs" target="_blank" rel="noopener">SubtitleManager</a>
-. Once a subtitle is requested to be played, it creates a new thread and plays the SubtitleData line by line while making pauses inbetween based on the file specification. For fancier UI animations, <a href="https://dotween.demigiant.com/" target="_blank" rel="noopener">DOTween</a>
- was utilized.</p>
-<pre tabindex="0"><code>int playSubtitle(SubtitleData sD, AudioSource aS){...}
-</code></pre><h3 id="a-wild-problem-has-appeared">A wild problem has appeared:</h3>
-<h4 id="what-if-player-goes-away-mid-dialogue">What if player goes away mid-dialogue?</h4>
-<p>It was apparent that seeing subtitles without being able to hear them was jarring. Thus before a line is played, I check the player distance from the audioSource and calculate whether its hearable based on volume, 3D mix, range and distance from the player.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-csharp" data-lang="csharp"><span style="display:flex;"><span> <span style="color:#6272a4">// If we are (range-limited, out of range AND not a 2D source) OR IF (the audioSource is not playing AND there was an valid AudioClip)</span>
-</span></span><span style="display:flex;"><span><span style="color:#ff79c6">if</span> ((isRangeLimited &amp;&amp; !checkAudioDistance(aS.maxDistance, aS) &amp;&amp; aS.spatialBlend != <span style="color:#bd93f9">0</span>) || (aS.isPlaying == <span style="color:#ff79c6">false</span> &amp;&amp; sE.audio != <span style="color:#ff79c6">null</span>))
-</span></span><span style="display:flex;"><span>{
-</span></span><span style="display:flex;"><span>    <span style="color:#ff79c6">continue</span>;
-</span></span><span style="display:flex;"><span>}
-</span></span></code></pre></div><h4 id="the-numerous-problems-with-the-in-game-radio-tuner">The numerous problems with the in-game radio tuner</h4>
-<p>The in-game radio tuner turned out to be a wildcard. I had to implement audio volume checks to determine whether the subtitle audio was audible. Another challenge arose when the player rapidly tuned in and out between lines, causing two subtitles to play simultaneously. I resolved this by generating a unique session ID for each played subtitleData, allowing me to terminate any session mid-play.</p>
-<h4 id="events-when-player-hears-a-certain-line">Events when player hears a certain line?</h4>
-<p>In Nightshift, I&rsquo;ve incorporated events triggered by specific subtitles. These events range from displaying achievements to inducing a blackout in the backrooms. Since SubtitleData is confined to a file, direct references to runtime objects aren&rsquo;t possible. To address this, I employed a clever technique: I defined a new ScriptableObject with an <UnityAction> (Basically an abstraction for EventHandler). I can reference these in both the SubtitleDatas and runtime scripts. Now, I simply check if a playing line has a ScriptableObject (UnityAction) assigned to it and invoke it.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-csharp" data-lang="csharp"><span style="display:flex;"><span><span style="color:#50fa7b">    [CreateAssetMenu(fileName = &#34;ScriptableEvent&#34;, menuName = &#34;Gasimo/ScriptableEvent&#34;)]</span>
-</span></span><span style="display:flex;"><span><span style="color:#50fa7b">    [Serializable]</span>
-</span></span><span style="display:flex;"><span>    <span style="color:#8be9fd;font-style:italic">public</span> <span style="color:#ff79c6">class</span> <span style="color:#50fa7b">ScriptableEvent</span> : ScriptableObject
-</span></span><span style="display:flex;"><span>    {
-</span></span><span style="display:flex;"><span>        <span style="color:#8be9fd;font-style:italic">public</span> <span style="color:#ff79c6">delegate</span> <span style="color:#ff79c6">void</span> ScriptableEventHandler();
-</span></span><span style="display:flex;"><span>        <span style="color:#8be9fd;font-style:italic">public</span> <span style="color:#ff79c6">event</span> ScriptableEventHandler onEventRaised;
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>        <span style="color:#8be9fd;font-style:italic">public</span> <span style="color:#ff79c6">void</span> Raise()
-</span></span><span style="display:flex;"><span>        {
-</span></span><span style="display:flex;"><span>            onEventRaised.Invoke();
-</span></span><span style="display:flex;"><span>        }
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>    }
-</span></span></code></pre></div>
+    <p>Heyos Everyone! Its a new year and alongside it comes a new Ether devlog.
+(<a href="https://www.patreon.com/posts/95856614/" target="_blank" rel="noopener">This post was released a week in advance for my Patrons Walpar, Kyle, Pitti and Vaipu!</a>
+)</p>
+<h3 id="terrain-change"><strong>Terrain Change</strong></h3>
+<p>The map is receiving a major redo. I wanted to make the &lsquo;home&rsquo; island bigger, mountains taller and environment more natural and faithful to Greenland. This also allows me to fit more landmarks to explore for the player.</p>
+<p><img src="https://img.itch.zone/aW1nLzE0Nzc0Mzc2LmpwZw==/original/qnCq0U.jpg" alt=""></p>
+<h3 id="upgradeables-upgrade"><strong>Upgradeables, Upgrade!</strong></h3>
+<p>The shop now includes a tab where you can overview base upgrades. The whole system is in place, allowing me to add in more upgradeables down the road very easily.</p>
+<p><img src="https://img.itch.zone/aW1nLzE0Nzc0Mzc1LmpwZw==/original/O41pCN.jpg" alt=""></p>
+<h3 id="lore-is-being-written"><strong>Lore is being written</strong></h3>
+<p>I have drastically expanded on the worldbuilding. The docs have been moved into Notion, which allows for better organisation of everything. We have already laid down a couple events which may happen in the first few days of the game and I will implement them later in development.</p>
+<p>All suggestions for events, lore or enemies are welcome!</p>
+<h3 id="clouds-and-atmosphere"><strong>Clouds and atmosphere!</strong></h3>
+<p>I have completely replaced the weather system. The new one promises MUCH better performance and customizability.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/qwM0ave4f8c" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="beep-boop"><strong>Beep Boop!</strong></h3>
+<p>Your workdesk now includes a report panel. This is an array of indicator lights which will start blinking to alert you about anything worth noticing within the base.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/_WOha8_acPU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="minor-os-improvements">Minor OS Improvements</h3>
+<ul>
+<li>Windows can now be minimized</li>
+<li>Some bugs were slain</li>
+<li>Some icons were made</li>
+<li>Added gradients!</li>
+</ul>
+<p><img src="https://img.itch.zone/aW1nLzE0Nzc0NDE1LnBuZw==/original/T5KRaY.png" alt=""></p>
+<p>To-do&rsquo;s:</p>
+<ul>
+<li>Boat devices + Polish with Controls</li>
+<li>Hunger related mechanics + lack of sleep debuff (still)</li>
+<li>Capture Events in the wild + Random Signals</li>
+<li>Extreme weather events + effects + Ability to see weather on SatView</li>
+<li>Enemies and story events (WIP)</li>
+<li>General Polish</li>
+</ul>
+
   </article>
 <div class="px-2 mb-2">
   
