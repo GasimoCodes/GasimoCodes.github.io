@@ -94,11 +94,11 @@ DefaultContentLanguageInSubdir = false
 
   [[params.homepage.social.icons]]
     website = "youtube"
-    url = "https://youtube.com"
+    url = "https://www.youtube.com/@Gasimo"
   
   [[params.homepage.social.icons]]
     website = "artstation"
-    url = "https://artstation.com"
+    url = "https://www.artstation.com/Gasimo"
 
 [[menu.main]]
   name = "Home"
