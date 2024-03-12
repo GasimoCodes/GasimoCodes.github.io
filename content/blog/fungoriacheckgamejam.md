@@ -1,7 +1,7 @@
 ---
 author: "Gasimo"
 title: "Fungoria, the shroomey Gamejam submission"
-date: 2024-12-03
+date: 2024-03-12
 tags: ["Fungoria", "Tech", "Gamejam"]
 thumbnail: https://img.itch.zone/aW1nLzE1MzMzNTM5LnBuZw==/315x250%23c/9bYSvM.png
 ---

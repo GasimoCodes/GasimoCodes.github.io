@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Gasimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gasimo.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fungoria</title>
+      <link>https://gasimo.dev/tags/fungoria/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/tags/fungoria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gamejam</title>
+      <link>https://gasimo.dev/tags/gamejam/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/tags/gamejam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://gasimo.dev/tags/tech/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/tags/tech/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Devlog</title>
       <link>https://gasimo.dev/tags/devlog/</link>
@@ -23,24 +44,10 @@
       <description></description>
     </item>
     <item>
-      <title>Gamejam</title>
-      <link>https://gasimo.dev/tags/gamejam/</link>
-      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/tags/gamejam/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Reality Check</title>
       <link>https://gasimo.dev/tags/reality-check/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/tags/reality-check/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech</title>
-      <link>https://gasimo.dev/tags/tech/</link>
-      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/tags/tech/</guid>
       <description></description>
     </item>
     <item>
