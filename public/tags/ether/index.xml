@@ -6,8 +6,15 @@
     <description>Recent content in Ether on Gasimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gasimo.dev/tags/ether/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ether Devlog 5</title>
+      <link>https://gasimo.dev/blog/etherdev5/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev5/</guid>
+      <description>Greetings, everyone. It is that time. The time when I do the thing. The thing with the devlog! Special thanks to my Patrons Walpar, Kyle, Pitti and Vaipu!&#xA;Random Signals This was haunting the to-do list for at least 2 months now and I am happy I can finally cross it off. The game now spawns random signals (both sellable and not) so the player has means to earn credits outside of story-events.</description>
+    </item>
     <item>
       <title>Ether Devlog 4</title>
       <link>https://gasimo.dev/blog/etherdev4/</link>
