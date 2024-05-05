@@ -239,13 +239,16 @@
       "beep-boop",
       "blackouts-2nd-try",
       "bunker",
+      "cave",
       "clouds-and-atmosphere",
       "computer",
       "controls",
       "defining-the-data",
       "events-when-player-hears-a-certain-line",
+      "food",
       "gameplay",
       "graphics",
+      "hiding",
       "interaction-system",
       "lighting",
       "lore-is-being-written",
@@ -258,8 +261,11 @@
       "random-signals",
       "room-occlusion",
       "sacrifices",
+      "satmap",
       "selection-using-spherecasting",
+      "smaller-changes",
       "some-smaller-changes",
+      "spawners",
       "subtitler",
       "switching-to-apvs",
       "team",
@@ -273,7 +279,8 @@
       "volumetrics",
       "weather",
       "what-if-player-goes-away-mid-dialogue",
-      "whats-reality-check"
+      "whats-reality-check",
+      "worldbuilding"
     ]
   }
 }
