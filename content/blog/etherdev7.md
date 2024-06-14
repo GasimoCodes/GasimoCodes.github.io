@@ -6,8 +6,8 @@ tags: ["Ether", "Devlog"]
 thumbnail: https://img.itch.zone/aW1nLzE2NTQzMTA0LnBuZw==/original/AzkLh4.png
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kq-ktQuEAYE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+{{< youtube Kq-ktQuEAYE >}}
 
 Hello Everyone! Welcome to June's Ether Devlog No. 7!
 This time, I've finally gotten to remaking the ship controller. But wait, there's more! This month was brought to you by our Patrons **Walpar**, **Pitti**, **Kyle** and **Vaipu**.

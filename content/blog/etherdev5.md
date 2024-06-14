@@ -10,6 +10,7 @@ Greetings, everyone. It is that time. The time when I do the thing. The thing wi
 Special thanks to my Patrons Walpar, Kyle, Pitti and Vaipu!
 
 {{< youtube LfUehVpjm7Q >}}
+
 # Random Signals
 This was haunting the to-do list for at least 2 months now and I am happy I can finally cross it off. The game now spawns random signals (both sellable and not) so the player has means to earn credits outside of story-events.
 

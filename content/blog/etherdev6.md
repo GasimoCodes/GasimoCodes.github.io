@@ -8,8 +8,8 @@ thumbnail: https://img.itch.zone/aW1nLzE1OTgwMDYwLnBuZw==/x150/Z%2BmNM8.png
 
 Hello everyone! Its the monthly Devlog time! This time focusing on gameplay, brought to you by our Patrons **Walpar**, **Pitti**, **Kyle** and **Vaipu**. ([Original Post with animated pictures available here](https://www.patreon.com/posts/ether-devlog-6-103412385))
 
+{{< youtube nmg5ofF8D1o >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmg5ofF8D1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Spawners
 I have implemented a system which allows me to randomly spawn objects on the land or sea and align them automatically with the surface. This will be soon used to spawn **events** and **beacons**, some of which will be visible from the SatMap.
