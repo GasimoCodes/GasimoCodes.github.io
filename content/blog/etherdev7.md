@@ -1,76 +1,89 @@
 ---
 author: "Gasimo"
-title: "Ether Devlog 6"
-date: 2024-05-01
+title: "Ether Devlog 7"
+date: 2024-06-14
 tags: ["Ether", "Devlog"]
-thumbnail: https://img.itch.zone/aW1nLzE1OTgwMDYwLnBuZw==/x150/Z%2BmNM8.png
+thumbnail: https://img.itch.zone/aW1nLzE2NTQzMTA0LnBuZw==/original/AzkLh4.png
 ---
 
-Hello everyone! Its the monthly Devlog time! This time focusing on gameplay, brought to you by our Patrons **Walpar**, **Pitti**, **Kyle** and **Vaipu**.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmg5ofF8D1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Spawners
-I have implemented a system which allows me to randomly spawn objects on the land or sea and align them automatically with the surface. This will be soon used to spawn **events** and **beacons**, some of which will be visible from the SatMap.
-
-![enter image description here](https://media.discordapp.net/attachments/789582276749033502/1235223742293217401/Editor34-ezgif.com-video-to-gif-converter.gif?ex=66339741&is=663245c1&hm=484d6d27c9e409aef75dde8a2332db31bb61e94cb0aae90c32740a408de6ffb0&=)
-
-### SatMap
-SatInsight now shows real-time and accurate **clouds** overlay, so you'll be able to see a rainstorm approach you.
-
-![enter image description here](https://media.discordapp.net/attachments/789582276749033502/1235223742993399848/Editor35-ezgif.com-video-to-gif-converter.gif?ex=66339741&is=663245c1&hm=583abac9e820078b11ebbe3379cffc7ac7f2dc28aa61bc2e84e030e2dfdd5713&=)
-
-Limited version of SatMap is now available on the go by using the PDA (Tab menu). As of now it shows only the SatMap preview and a compass. No device/beacon tracking or EMF info.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kq-ktQuEAYE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Hiding
-Player now has the ability to **hide inside lockers**. I am sure this won't cause any paranoia and the mechanic is not suspicious whatsoever.
-
-![enter image description here](https://media.discordapp.net/attachments/789582276749033502/1235224541014265900/Image_Sequence_031_0005.jpg?ex=663397ff&is=6632467f&hm=516ee8d6c40e49d512c6e95a19c3861c23b46953df701ca558939a6b2cee1a6b&=&format=webp&width=1340&height=754)
+Hello Everyone! Welcome to June's Ether Devlog No. 7!
+This time, I've finally gotten to remaking the ship controller. But wait, there's more! This month was brought to you by our Patrons **Walpar**, **Pitti**, **Kyle** and **Vaipu**.
 
 
-### Food
+## New Ship!
 
-You can now eat food. Yes, this is the **food update**. There is no benefit to eating food yet.
+I have remade the controls, added (faked) buoyancy, added sonar, and made a new model. It's a major improvement over the last version's ship system, and I feel pretty confident about it going forward! I still need to finish the textures, though.
 
-### Worldbuilding
+## Computer OS Improvements
 
-We have managed to lay (write) down a solid foundation for worldbuilding. Thanks to **Seth** (and his impeccable writing), we now have a bunch of lore and ideas for the first few threats/anomalies we will put into the game. 
+![](https://img.itch.zone/aW1nLzE2NTQyNjY4LnBuZw==/original/o8maBt.png)
+
+- Play testing indicated the sat clouds were boring. So, I have done a few modifications and improved the shader to feel much more dynamic and lively!
+
+![](https://img.itch.zone/aW1nLzE2NTQyNjc0LmpwZw==/original/Q8w3iR.jpg)
+
+- The Radio can be a bit quiet/loud at times, so I introduce: The Volume Slider! (Yippee). The Radio can also now be tuned using the middle mouse button for ease of use.
+
+![](https://img.itch.zone/aW1nLzE2NTQyOTcyLmpwZw==/original/xUkhua.jpg)
+
+- Emails were a bit hard to navigate. Important story emails are now marked with an "Important" label.
+
+![](https://img.itch.zone/aW1nLzE2NTQyOTc2LmpwZw==/original/bs%2FPKU.jpg)
+
+- More upgrades were introduced. You can now upgrade the ship too.
+
+## Ambiance Changes
+
+The game now features a dynamic ambiance system which changes background music depending on where and when you are. This really helps accentuate the mood when exploring.
+
+![](https://img.itch.zone/aW1nLzE2NTQyOTg1LmpwZw==/original/AL45Fj.jpg)
+
+## Map Changes
+
+- The mountain on the base island is taller.
+- A few exterior areas were improved.
+- A few new models were added (such as the PDC tape storage module in the base; I love watching those things spin!).
+
+![](https://img.itch.zone/aW1nLzE2NTQyOTk4LmpwZw==/original/vMwYEV.jpg)
+
+![](https://img.itch.zone/aW1nLzE2NTQzMDEyLnBuZw==/original/O7XVnU.png)
 
 
-### Graphics
-The previous versions appeared a little too dim so I have increased lighting intensity to compensate for it.
 
-On top of that I have created a vegetation model for **cotton weed**, a plant commonly found in northern mountain regions. I think its whiteness breaks the monotone look of the grass. More vegetation models pending.
+## Night Rendering Improvement
 
-![enter image description here](https://media.discordapp.net/attachments/789582276749033502/1235224541849059389/Image_Sequence_029_0005.jpg?ex=66339800&is=66324680&hm=1d1a6727606ab28644785f640c5010469d17b2d5f6ed7a7edacc15965b76c5c3&=&format=webp&width=1340&height=754)
+Night lighting was improved. Night is now less dark, and moonlight feels more movie-ish.
 
-*I should also mention the new Radar model, yes we have that too!*
+![](https://img.itch.zone/aW1nLzE2NTQzMDI2LmpwZw==/original/tb%2Bd47.jpg)
 
+## Smaller Changes:
 
-### Cave
-Speaking of paranoia, the bunker now has a second enterance: **a cave which connects various points of interest across the island**.  A cave which is super-ultra safe to traverse and is totally not a possible enterance for threats.
+- Fix computer status not loading properly.
+- Email text now has a proper scrollbar.
+- Pagination for reading paper pages.
+- BMWES Radar Model.
+- Fix: Add RC3 Player for File Manager.
+- Fix: Notification popup now shows message titles.
+- Fix: Email file labels overflow.
+- Add System Sounds.
+- Add sound feedback upon buying items and receiving credits to drive fun value!
+- Main Menu update.
+- Add Settings for Volumetric Fog.
+- Add working clock to PC and PDA.
+- Add sound when a beacon is found (Radar).
+- Beacon timeout can now be upgraded.
+- UI QOL: Keep freq bar fixed.
+- Fix: Radio not being quieter when far away.
+- Time of day ambiance music system.
+- Fix: Boat not working on some builds.
+- Getting Lost in Fog (on sea) (Player only).
+- Boat polish (Yippee!).
 
-![enter image description here](https://media.discordapp.net/attachments/789582276749033502/1235224541412855879/Image_Sequence_030_0005.jpg?ex=66339800&is=66324680&hm=5df94b3ebeff2a9f59f2badbd0fe790353c805738841b73a1513f7769eb1e9cc&=&format=webp&width=1340&height=754)
+## To-Do:
 
-### Weather
-To liven up the world further, I have added weather sounds for wind/rain which changes dynamically depending on whether you are indoors or outdoors.
-Rain particles are WIP and will probably arrive in next devlog.
-
-### Smaller changes:
-- Exterior Global Illumination is now baked, resulting in non-black shadows anf AO which looks much nicer. Time of day related corrections will come much later.
-- More details models, textures and decals added
-- New footstep sounds for water
-- Monitors are now affected by fog.
-- Fixed invalid AABB bug for reflection probes
-- Wind now has different sound variants for exterior and interior
-- Items grabbing no longer causes the object to become a rocket and fly far away behind you. 
-- Dynamic beacons now properly spawn on SatMap.
-- Some terrain textures were refreshed.
-- Improved sea rendering for day/night scenarios.
-
-### Needs to be done:
-- Implement some of the threats and story events
-- Polish ship
+- Implement some of the threats and story events.
 - Make dynamic fog alongside weather events.
-- Player lost in fog event.
+- Improve Fog lost event (for now, only applies to player and not ship/ship items).
