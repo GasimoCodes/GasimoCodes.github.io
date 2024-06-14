@@ -13,6 +13,13 @@
       <link>https://gasimo.dev/blog/etherdev6/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/blog/etherdev6/</guid>
+      <description>Hello everyone! Its the monthly Devlog time! This time focusing on gameplay, brought to you by our Patrons Walpar, Pitti, Kyle and Vaipu. (Original Post with animated pictures available here&#xD;)&#xA;Spawners I have implemented a system which allows me to randomly spawn objects on the land or sea and align them automatically with the surface. This will be soon used to spawn events and beacons, some of which will be visible from the SatMap.</description>
+    </item>
+    <item>
+      <title>Ether Devlog 6</title>
+      <link>https://gasimo.dev/blog/etherdev7/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev7/</guid>
       <description>Hello everyone! Its the monthly Devlog time! This time focusing on gameplay, brought to you by our Patrons Walpar, Pitti, Kyle and Vaipu.&#xA;Spawners I have implemented a system which allows me to randomly spawn objects on the land or sea and align them automatically with the surface. This will be soon used to spawn events and beacons, some of which will be visible from the SatMap.&#xA;SatMap SatInsight now shows real-time and accurate clouds overlay, so you&amp;rsquo;ll be able to see a rainstorm approach you.</description>
     </item>
     <item>
