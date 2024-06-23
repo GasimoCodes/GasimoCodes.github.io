@@ -1,0 +1,157 @@
+{{define "head"}}
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Roxxy & Ewe: FULL DECK!</title>
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Contrail+One&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Changa+One:ital@0;1&display=swap');
+</style>
+
+<link rel="stylesheet" href="/css/RoxxyEweStyle.css">
+
+<!-- {{- partial "head.html" . -}} -->
+
+{{ end }}
+
+
+{{define "header"}}
+
+<div style="height: 80px">
+    <header class="bg-yellow ">
+       
+            <a class="logo" href="/">Gasimo</a>
+            <div class="navbar">
+                <nav class="episode-nav">
+                    <a href="#">Pilot Episode:<br>
+                        <span class="episode-title">FULL DECK!</span>
+                    </a>
+                    <a href="#">Episode 2:<br>
+                        <span class="episode-title">TBA</span>
+                    </a>
+                </nav>
+                <div class="menu">
+                    <!-- 
+            <div class="menu-item"></div>
+            <div class="menu-item"></div>
+            <div class="menu-item"></div>
+            -->
+                </div>
+            </div>
+  
+
+    </header>
+</div>
+
+{{ end }}
+
+{{define "main"}}
+
+
+<div class="hero text-center">
+    <div class="container">
+        <div class="text-yellow game_logo">Roxxy & Ewe</div>
+        <h1>FULL DECK!</h1>
+    </div>
+</div>
+
+
+
+<div class="text-center" style="height: 250px; position:relative">
+    <!-- Make video overlap with hero element -->
+    <div style="position: absolute; top: -200px; left: 0; right: 0; margin: auto;">
+        <iframe width="746" height="450" src="https://www.youtube-nocookie.com/embed/nmg5ofF8D1o?si=Bf8is_wOO65ucVM9"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="container">
+
+    <div class="content text-center ">
+
+        <div style="max-width:800px; margin: auto;">
+            <div class="quote">“Oh no, its these two”</div>
+            <p class="description">
+                Join Roxxy & Ewe on their whimsical quest to journey through the world. One is in for the thrill,
+                the
+                other strives to spread kindness. Although they may not agree on everything, one thing they share:
+            </p>
+            <p class="description">
+                <i>Both are utterly underqualified for adventuring.</i>
+            </p>
+            <p class="description">
+                But together, they <b>just may</b> overcome even the biggest challenges.
+            </p>
+        </div>
+
+    </div>
+
+    <div class="content ">
+        <div class="feature">
+            <div class="image-placeholder hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+            <div class="feature-content">
+                <h2>The City with no Cards</h2>
+                <p>Our unconventional adventurers find themselves stuck in a vibrant, idyllic kingdom where card
+                    games are banned. As Roxxy's beloved deck is confiscated, it's clear that the kingdom's gravest
+                    threat isn't from some mythical beasts or draconic foes, but from the sheer boredom its
+                    residents are now forced to endure.
+                </p>
+                <p>
+                    Can our duo sway the royal family to lift the ban and
+                    retrieve Roxxy's cards back? Can they do that while keeping a moral high ground? And what about
+                    the dragon?</p>
+            </div>
+        </div>
+
+
+        <div class="feature">
+            <div class="image-placeholder hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+            <div class="feature-content">
+                <h2>Switcheroo!</h2>
+                <p>Some problems require wits, some means and some both. Toggle seamlessly between Roxxy and Ewe to
+                    navigate through the oddest situation, craziest dialogue or the trickiest puzzle.</p>
+            </div>
+        </div>
+
+
+        <div class="feature">
+            <div class="image-placeholder hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+            <div class="feature-content">
+                <h2>Cross-Platform</h2>
+                <p>TBA</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="content ">
+        <h2>Gallery</h2>
+        <div class="thumbnails">
+            <div class="thumbnail hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+            <div class="thumbnail hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+            <div class="thumbnail hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+        </div>
+    </div>
+
+</div>
+
+
+{{ end }}
+
+{{define "footer"}}
+<div class="container">
+    <div class="content ">
+        <h2>Gallery</h2>
+        <div class="thumbnails">
+            <div class="thumbnail hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+            <div class="thumbnail hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+            <div class="thumbnail hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+        </div>
+    </div>
+</div>
+{{ end }}

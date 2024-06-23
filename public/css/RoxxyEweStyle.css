@@ -1,0 +1,274 @@
+/* General Resets and Styles */
+body,
+html {
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    background-color: #F9F2ED;
+    background-image: url("BG-Loop.png");
+    background-size: 100%;
+    background-repeat: repeat-y;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+
+/* Utility Classes */
+.text-center {
+    text-align: center;
+}
+
+.text-yellow {
+    color: #FFB562;
+}
+
+h2 {
+    font-family: "Contrail One", sans-serif;
+}
+
+.bg-white {
+    background-color: #F9F2ED;
+}
+
+.bg-yellow {
+    background-color: #FFB562;
+}
+
+/* Header Styles */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+/*Fixed*/
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-width: fit-content;
+    min-width: 500px;
+
+}
+
+.episode-nav {
+    margin-right: 20px;
+    display: flex;
+    gap: 30px;
+}
+
+.episode-nav a {
+    color: rgb(230, 67, 67);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    display: block;
+}
+
+.episode-title {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Contrail One;
+    color: #5e1b1b;
+}
+
+
+.menu {
+    display: flex;
+    gap: 10px;
+}
+
+.menu-item {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+
+/* Hero Section Styles */
+.hero {
+    padding: 40px;
+
+    background-color: #F9F2ED;
+    background-image: url("Head.png");
+    background-size: cover;
+    min-height: 600px;
+}
+
+.game_logo {
+    font-family: "Changa One", sans-serif;
+    font-size: 40px;
+    
+    -webkit-text-stroke: 0.3px #ef2e2e75; /* Stroke around the text */
+    /* Shadow */
+    filter: drop-shadow( 0px 3px 1px rgba(0, 0, 0, 0.15));
+
+    text-shadow:
+        -4px 1 #ef2e2e, /* Inner shadow to the left */
+}
+
+.hero h1 {
+    font-family: "Contrail One", sans-serif;
+    font-size: 150px;
+    margin: 0px 0;
+    color: #ffffff;
+    filter: drop-shadow( 0px 4px 4px rgba(0, 0, 0, 0.15));
+    letter-spacing: -10px;
+}
+
+.subtitle {
+    font-size: 24px;
+}
+
+.card-suits {
+    font-size: 24px;
+    margin: 20px 0;
+}
+
+.concept-note {
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+/* Content Styles */
+.content {
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.quote {
+    font-family: "Contrail One", sans-serif;
+    font-style: bold;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.description {
+    margin-bottom: 10px;
+    font-size: 20px ;
+}
+
+.feature {
+    display: flex;
+    gap: 50px;
+    align-items: flex-start;
+    margin-bottom: 50px;
+}
+
+.feature p {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.feature:nth-child(odd) {
+    flex-direction: row-reverse;
+}
+
+.feature-content {
+    flex: 1;
+}
+
+.feature-content h2 {
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-family: "Contrail One", sans-serif;
+}
+
+.image-placeholder {
+    
+    outline: 10px solid #ffffff;
+    background-color: #808080;
+    height: 350px !important;
+    width: 550px !important;
+    filter: drop-shadow( 0px 3px 6px rgba(0, 0, 0, 0.15));
+}
+
+.feature:nth-child(odd) .image-placeholder {
+    transform: rotate(0.5deg);
+    /* Tilts odd images slightly to the right */
+}
+
+.feature:nth-child(even) .image-placeholder {
+    transform: rotate(-0.5deg);
+    /* Tilts even images slightly to the left */
+}
+
+/* Thumbnails Styles */
+.thumbnails {
+    display: flex;
+    gap: 10px;
+}
+
+.thumbnail {
+    flex: 1;
+    height: 200px;
+    background-color: #F9F2ED;
+    background-size: cover;
+    background-position: center;
+}
+
+/* Footer Styles */
+footer {
+    padding: 20px;
+}
+
+
+.hover3D {
+    transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transform-origin: center center;
+}
+
+.hover3D:hover {
+    transform: scale3d(1.02, 1.02, 1.02) rotate(0.5deg) !important;
+}
+
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+
+
+    .hero h1 {
+        font-size: 100px;
+        letter-spacing: normal;
+    }
+
+    .content {
+        padding: 10px;
+    }
+
+    .feature {
+        flex-direction: column !important;
+        gap: 20px;
+        
+        /*Align flex to center */
+        align-items: center;
+    }
+
+    .feature p, h2 {
+        text-align: center;
+        
+    }
+
+
+
+
+    .feature:nth-child(even) {
+        flex-direction: column !important;
+    }
+
+    
+}

@@ -100,6 +100,12 @@ DefaultContentLanguageInSubdir = false
     website = "artstation"
     url = "https://www.artstation.com/Gasimo"
 
+  [[params.homepage.social.icons]]
+    website = "linkedin"
+    url = "https://www.linkedin.com/in/prokop-sva%C4%8Dina-2633391a3/"
+
+
+[menu]
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -108,10 +114,23 @@ DefaultContentLanguageInSubdir = false
 [[menu.main]]
     name = "Blog"
     url = "blog"
+    weight = "2"
 
 [[menu.main]]
     name = "Games"
     url = "games"
+    weight = "2"
+
+[[menu.main]]
+    name = "Contact"
+    url = "contact"
+    weight = "5"
+
+    [[menu.main]]
+    name = "Patreon"
+    url = "https://www.patreon.com/StormingSummit"
+    weight = "4"
+
 
 
 
