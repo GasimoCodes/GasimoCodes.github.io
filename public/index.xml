@@ -100,6 +100,13 @@
       <description>Heya everyone!&#xA;Its time to update you a bit on progress I made on Ether since last update. This is my first week at the university and the math is rather taxing so excuse the next devlog being shorter or delayed.&#xA;Ive managed to create a pretty fast and extendable event system for the game, which allows me to run various in-game events based on day, current time or even to schedule events randomly based on criteria for some replay value!</description>
     </item>
     <item>
+      <title>Contact</title>
+      <link>https://gasimo.dev/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/contact/</guid>
+      <description>Links Patreon&#xD;Artstation&#xD;Github&#xD;Socials Discord: @Gasimo </description>
+    </item>
+    <item>
       <title>Games</title>
       <link>https://gasimo.dev/games/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -107,11 +114,11 @@
       <description></description>
     </item>
     <item>
-      <title>Hello</title>
+      <title>Hello@s</title>
       <link>https://gasimo.dev/roxxyewe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/roxxyewe/</guid>
-      <description>Test Hello world&#xA;Content </description>
+      <description></description>
     </item>
   </channel>
 </rss>
