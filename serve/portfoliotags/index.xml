@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfoliotags on Gasimo</title>
+    <link>https://gasimo.dev/portfoliotags/</link>
+    <description>Recent content in Portfoliotags on Gasimo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gasimo.dev/portfoliotags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C#</title>
+      <link>https://gasimo.dev/portfolio/tags/c/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/tags/c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Featured</title>
+      <link>https://gasimo.dev/portfolio/tags/featured/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/tags/featured/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unity3D</title>
+      <link>https://gasimo.dev/portfolio/tags/unity3d/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/tags/unity3d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Figma</title>
+      <link>https://gasimo.dev/portfolio/tags/figma/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/tags/figma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Illustrations</title>
+      <link>https://gasimo.dev/portfolio/tags/illustrations/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/tags/illustrations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Games</title>
+      <link>https://gasimo.dev/portfolio/tags/games/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/tags/games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unity</title>
+      <link>https://gasimo.dev/portfolio/tags/unity/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/tags/unity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3D</title>
+      <link>https://gasimo.dev/portfolio/tags/3d/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/tags/3d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blender</title>
+      <link>https://gasimo.dev/portfolio/tags/blender/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/tags/blender/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Substance</title>
+      <link>https://gasimo.dev/portfolio/tags/substance/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/tags/substance/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

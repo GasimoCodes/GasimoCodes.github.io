@@ -31,6 +31,8 @@ DefaultContentLanguageInSubdir = false
     "author"
   ]
 
+  
+
   # Custom copyright - optional
   copyright = ""
   favicon = "/logo.png"
@@ -122,6 +124,11 @@ DefaultContentLanguageInSubdir = false
     weight = "2"
 
 [[menu.main]]
+    name = "Portfolio"
+    url = "/portfolio"
+    weight = "2"
+
+[[menu.main]]
     name = "Contact"
     url = "contact"
     weight = "5"
@@ -133,7 +140,11 @@ DefaultContentLanguageInSubdir = false
 
 
 
+[taxonomies]
+  portfoliotag = "portfoliotags"
 
+[permalinks]
+  portfoliotags = "/portfolio/tags/:slug/"
 
 
 [build]

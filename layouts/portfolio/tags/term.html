@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="container px-6 pt-6 mx-auto">
+  <h1 class="text-3xl font-bold mb-6">Portfolio items tagged "{{ .Title }}"</h1>
+  
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
+    {{ range .Pages }}
+      {{ partial "portfolio-card.html" . }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}

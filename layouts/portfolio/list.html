@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="container px-6 pt-6 mx-auto">
+  <h1 class="text-3xl font-bold mb-6">{{ .Title }}</h1>
+  
+  <!-- Portfolio Tag filtering -->
+  <div class="mb-8">
+    <h2 class="text-xl font-semibold mb-2">Filter by tag:</h2>
+    <div class="flex flex-wrap gap-2">
+      {{ range $name, $taxonomy := .Site.Taxonomies.portfoliotags }}
+        <a href="{{ "/portfolio/tags/" | relLangURL }}{{ $name | urlize }}/" class="bg-gray-200 dark:bg-gray-700 px-3 py-1 rounded-full text-sm hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors">{{ $name }}</a>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
+    {{ range .Pages }}
+      {{ partial "portfolio-card.html" . }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}

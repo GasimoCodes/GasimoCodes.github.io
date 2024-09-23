@@ -5,16 +5,7 @@
     <loc>https://gasimo.dev/blog/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/tags/devlog/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gasimo.dev/tags/ether/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gasimo.dev/blog/etherdev7/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gasimo.dev/tags/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gasimo.dev/blog/etherdev6/</loc>
@@ -23,16 +14,7 @@
     <loc>https://gasimo.dev/blog/etherdev5/</loc>
     <lastmod>2024-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/tags/fungoria/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gasimo.dev/blog/fungoriacheckgamejam/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gasimo.dev/tags/gamejam/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gasimo.dev/tags/tech/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gasimo.dev/blog/etherdev4/</loc>
@@ -44,14 +26,8 @@
     <loc>https://gasimo.dev/blog/etherdev3/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/tags/reality-check/</loc>
-    <lastmod>2023-11-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gasimo.dev/blog/realitycheckgamejam/</loc>
     <lastmod>2023-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gasimo.dev/tags/nightshift/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gasimo.dev/blog/nightshifttech2/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
@@ -71,7 +47,20 @@
     <loc>https://gasimo.dev/blog/etherdev0/</loc>
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/categories/</loc>
+    <loc>https://gasimo.dev/portfolio/tags/games/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/ethershaders/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/jecnanightshift/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfoliotags/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gasimo.dev/contact/</loc>
   </url><url>

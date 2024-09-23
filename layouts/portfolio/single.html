@@ -1,0 +1,24 @@
+{{ define "main" }}
+<article class="max-w-5xl mx-auto px-4">
+  <h1 class="text-2xl font-bold mb-4">{{ .Title }}</h1>
+  
+  {{ if .Params.image }}
+    <img src="{{ .Params.image }}" alt="{{ .Title }}" class="rounded-lg shadow-sm w-full object-cover mb-4">
+  {{ end }}
+
+  <div class="prose dark:prose-dark">
+    {{ .Content }}
+  </div>
+
+  {{ if .Params.portfoliotags }}
+    <div class="mt-4">
+      <h2 class="text-xl font-semibold mb-2">Tags:</h2>
+      <div class="flex flex-wrap gap-2">
+        {{ range .Params.portfoliotags }}
+          <a href="{{ "/portfolio/tags/" | relLangURL }}{{ . | urlize }}/" class="bg-gray-200 dark:bg-gray-700 px-3 py-1 rounded-full text-sm hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors">{{ . }}</a>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+</article>
+{{ end }}
