@@ -2,8 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gasimo.dev/portfolio/tags/c/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/tags/featured/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/interacta/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfoliotags/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/tags/unity/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gasimo.dev/blog/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/blog/etherdev8/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gasimo.dev/blog/etherdev7/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
@@ -22,6 +43,18 @@
   </url><url>
     <loc>https://gasimo.dev/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/tags/figma/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/flaxicons/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/tags/illustrations/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/subtitler/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gasimo.dev/blog/etherdev3/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
@@ -48,19 +81,34 @@
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gasimo.dev/portfolio/tags/games/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/ethershaders/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>https://gasimo.dev/portfolio/realitycheck/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/scp-cartoon-illustrations/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gasimo.dev/portfolio/jecnanightshift/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>https://gasimo.dev/portfolio/tags/3d/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfoliotags/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>https://gasimo.dev/portfolio/tags/blender/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/iso-devices-1/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/iso-ui/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/tags/substance/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/portfolio/fragmented-minds-ui/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gasimo.dev/contact/</loc>
   </url><url>

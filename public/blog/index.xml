@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Gasimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gasimo.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ether Devlog 8</title>
+      <link>https://gasimo.dev/blog/etherdev8/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev8/</guid>
+      <description>Heyo everyone! It&amp;rsquo;s time for the nearly-monthly Ether update! This month has been given to polishing the ship and bringing the world to life with some needed water &amp;amp; flora changes! Let&amp;rsquo;s dive in!&#xA;EMF Camera Ether now features an EMF Camera which allows you to trace EMF traces in the field. Source of the interference can be devices, natural phenomena but also anomalies.&#xA;When you encounter a strong EMF Source, you can use the EMF Camera to record it to be later played (and uploaded) at the base.</description>
+    </item>
     <item>
       <title>Ether Devlog 7</title>
       <link>https://gasimo.dev/blog/etherdev7/</link>

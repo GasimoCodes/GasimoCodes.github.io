@@ -9,6 +9,20 @@
     <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gasimo.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Interacta (Screen-Space Center Proximity Interaction Framework)</title>
+      <link>https://gasimo.dev/portfolio/interacta/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/interacta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ether Devlog 8</title>
+      <link>https://gasimo.dev/blog/etherdev8/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev8/</guid>
+      <description>Heyo everyone! It&amp;rsquo;s time for the nearly-monthly Ether update! This month has been given to polishing the ship and bringing the world to life with some needed water &amp;amp; flora changes! Let&amp;rsquo;s dive in!&#xA;EMF Camera Ether now features an EMF Camera which allows you to trace EMF traces in the field. Source of the interference can be devices, natural phenomena but also anomalies.&#xA;When you encounter a strong EMF Source, you can use the EMF Camera to record it to be later played (and uploaded) at the base.</description>
+    </item>
+    <item>
       <title>Ether Devlog 7</title>
       <link>https://gasimo.dev/blog/etherdev7/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
@@ -42,6 +56,20 @@
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/blog/etherdev4/</guid>
       <description>Heyos Everyone! Its a new year and alongside it comes a new Ether devlog. (This post was released a week in advance for my Patrons Walpar, Kyle, Pitti and Vaipu!&#xD;)&#xA;Terrain Change The map is receiving a major redo. I wanted to make the &amp;lsquo;home&amp;rsquo; island bigger, mountains taller and environment more natural and faithful to Greenland. This also allows me to fit more landmarks to explore for the player.</description>
+    </item>
+    <item>
+      <title>Flax Engine Icon Pack</title>
+      <link>https://gasimo.dev/portfolio/flaxicons/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/flaxicons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Subtitler (Closed-Captions game Tool)</title>
+      <link>https://gasimo.dev/portfolio/subtitler/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/subtitler/</guid>
+      <description></description>
     </item>
     <item>
       <title>Ether Devlog 3</title>
@@ -100,17 +128,45 @@
       <description>Heya everyone!&#xA;Its time to update you a bit on progress I made on Ether since last update. This is my first week at the university and the math is rather taxing so excuse the next devlog being shorter or delayed.&#xA;Ive managed to create a pretty fast and extendable event system for the game, which allows me to run various in-game events based on day, current time or even to schedule events randomly based on criteria for some replay value!</description>
     </item>
     <item>
-      <title>Ječná Nightshift</title>
-      <link>https://gasimo.dev/portfolio/ethershaders/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/ethershaders/</guid>
+      <title>Reality Check (GameJam Platformer)</title>
+      <link>https://gasimo.dev/portfolio/realitycheck/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/realitycheck/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SCP Iso: Prop Cartoon Illustrations</title>
+      <link>https://gasimo.dev/portfolio/scp-cartoon-illustrations/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/scp-cartoon-illustrations/</guid>
       <description></description>
     </item>
     <item>
       <title>Ječná Nightshift</title>
       <link>https://gasimo.dev/portfolio/jecnanightshift/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/jecnanightshift/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SCP Iso: Devices</title>
+      <link>https://gasimo.dev/portfolio/iso-devices-1/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/iso-devices-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SCP Iso: Environment Lighting</title>
+      <link>https://gasimo.dev/portfolio/iso-ui/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/iso-ui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fragmented Minds: UI</title>
+      <link>https://gasimo.dev/portfolio/fragmented-minds-ui/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/fragmented-minds-ui/</guid>
       <description></description>
     </item>
     <item>
