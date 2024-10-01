@@ -9,6 +9,13 @@
     <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gasimo.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Interacta Now Available On Asset Store</title>
+      <link>https://gasimo.dev/blog/interactarelease/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/interactarelease/</guid>
+      <description>I am excited to share that Interacta - A Screen-Center Proximity Interaction Kit is now live on the Asset Store&#xD;.&#xA;What is Interacta? Interacta is a game interaction framework designed to streamline object selection in your games. It automatically identifies items located at the center of the screen—specifically, interactables that players are looking at. This approach offers significant advantages over the traditional method of requiring precise alignment with a target.</description>
+    </item>
+    <item>
       <title>Interacta (Screen-Space Center Proximity Interaction Framework)</title>
       <link>https://gasimo.dev/portfolio/interacta/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
