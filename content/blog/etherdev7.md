@@ -2,7 +2,7 @@
 author: "Gasimo"
 title: "Ether Devlog 7"
 date: 2024-06-14
-tags: ["Ether", "Devlog"]
+tags: ["Ether", "Devlog", "Featured"]
 thumbnail: https://img.itch.zone/aW1nLzE2NTQzMTA0LnBuZw==/original/AzkLh4.png
 ---
 

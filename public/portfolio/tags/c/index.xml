@@ -13,14 +13,14 @@
       <link>https://gasimo.dev/portfolio/interacta/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/interacta/</guid>
-      <description></description>
+      <description>Spherecast-based interaction framework I initially developed for my own projects.</description>
     </item>
     <item>
       <title>Subtitler (Closed-Captions game Tool)</title>
       <link>https://gasimo.dev/portfolio/subtitler/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/subtitler/</guid>
-      <description></description>
+      <description>A powerful Subtitling/Closed-Captions solution for Unity with SRT support, Multiplay and more.</description>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,9 @@
 ---
 author: "Gasimo"
-title: "Ether Devlog 8"
+title: "Ether Devlog 8 - EMF, Camera & Vegetation"
 date: 2024-09-01
-tags: ["Ether", "Devlog"]
-thumbnail: https://img.itch.zone/aW1nLzE3ODk1MTg2LnBuZw==/x150/uEaifa.png
+tags: ["Ether", "Devlog", "Featured"]
+thumbnail: /blog/dev8.png
 ---
 
 

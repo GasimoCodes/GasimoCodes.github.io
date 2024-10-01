@@ -13,9 +13,23 @@
   </div>
 
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
-    {{ range .Pages }}
+    
+    <!-- Display Featured posts first -->
+    {{ $featured := where .Pages "Params.portfoliotags" "intersect" (slice "Featured") }}
+    {{ range $featured }}
       {{ partial "portfolio-card.html" . }}
     {{ end }}
+    
+    <!-- Display non-Featured posts -->
+    {{ range .Pages }}
+      {{ if not (in .Params.portfoliotags "Featured") }}
+        {{ partial "portfolio-card.html" . }}
+      {{ end }}
+    {{ end }}
+
   </div>
 </div>
+
+<br>
+
 {{ end }}

@@ -6,3 +6,5 @@ portfoliotags: ["Unity","C#", "Featured"]
 thumbnail: https://github.com/user-attachments/assets/b5d0bc68-6bce-46e2-941c-50a2f5ff7ab0
 external: https://github.com/GasimoCodes/Interacta-Public
 ---
+
+Spherecast-based interaction framework I initially developed for my own projects.

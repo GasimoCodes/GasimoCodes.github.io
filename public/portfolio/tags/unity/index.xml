@@ -13,28 +13,35 @@
       <link>https://gasimo.dev/portfolio/interacta/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/interacta/</guid>
-      <description></description>
+      <description>Spherecast-based interaction framework I initially developed for my own projects.</description>
     </item>
     <item>
       <title>Subtitler (Closed-Captions game Tool)</title>
       <link>https://gasimo.dev/portfolio/subtitler/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/subtitler/</guid>
-      <description></description>
+      <description>A powerful Subtitling/Closed-Captions solution for Unity with SRT support, Multiplay and more.</description>
     </item>
     <item>
       <title>Reality Check (GameJam Platformer)</title>
       <link>https://gasimo.dev/portfolio/realitycheck/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/realitycheck/</guid>
-      <description></description>
+      <description>Short 48hours GameJam platformer. I&amp;rsquo;ve made the art and gameplay code.</description>
     </item>
     <item>
       <title>Ječná Nightshift</title>
       <link>https://gasimo.dev/portfolio/jecnanightshift/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/jecnanightshift/</guid>
-      <description></description>
+      <description>A short satirical first person horror game in Unity3D &amp;amp; HDRP.</description>
+    </item>
+    <item>
+      <title>SCP: Classified Site</title>
+      <link>https://gasimo.dev/portfolio/scpcs/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/scpcs/</guid>
+      <description>SCP Classified Site is a Unity Crossplatform Multiplayer game I founded and co-developed with Aizyka Shakh.&#xA;Notable things I have developed for CS is the Spherecast-based Interaction System, Inventory &amp;amp; Item Logic and Architecture and Random Map Generator. In the first year after release the game obtained over 1 milion downloads from the Play Store alone.</description>
     </item>
     <item>
       <title>SCP Iso: Environment Lighting</title>
