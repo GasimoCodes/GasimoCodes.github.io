@@ -30,6 +30,10 @@ The idea for this system originated during my work on a school project titled *"
 
 Since then, Interacta has undergone numerous iterations, evolving into a more modular and standalone package. This adaptability allows me to reuse the framework across a variety of genres, including first-person shooters (FPS), third-person shooters (TPS), and point-and-click adventures without any source code modifications.
 
+Early 2022 Footage from Interacta Prototype for SCP: Classified Site
+{{< youtube KxUB4p6_XjA >}}
+
+
 #### Adding in interactables is as simple as implementing:
 ```csharp
 /// <summary>
