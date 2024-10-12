@@ -7,4 +7,4 @@ thumbnail: https://github.com/user-attachments/assets/f5efff1d-d151-42dc-a78f-31
 external: https://github.com/GasimoCodes/Subtitler-Public
 ---
 
-A powerful Subtitling/Closed-Captions solution for Unity with **SRT support**, Multiplay and more.
+A powerful Subtitling/Closed-Captions solution for Unity with **SRT support**, Multiplay, Localization and more.

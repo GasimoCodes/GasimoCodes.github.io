@@ -20,7 +20,14 @@
       <link>https://gasimo.dev/portfolio/subtitler/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/subtitler/</guid>
-      <description>A powerful Subtitling/Closed-Captions solution for Unity with SRT support, Multiplay and more.</description>
+      <description>A powerful Subtitling/Closed-Captions solution for Unity with SRT support, Multiplay, Localization and more.</description>
+    </item>
+    <item>
+      <title>Map Generation System (SCP:CS)</title>
+      <link>https://gasimo.dev/portfolio/newgen/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/newgen/</guid>
+      <description> https://github.com/GasimoCodes/MapGen&#xD;</description>
     </item>
   </channel>
 </rss>

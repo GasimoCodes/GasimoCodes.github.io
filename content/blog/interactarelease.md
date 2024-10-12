@@ -8,6 +8,7 @@ thumbnail: /media/img/Interacta Big.png
 
 I am excited to share that **Interacta - A Screen-Center Proximity Interaction Kit** is now live on the [Asset Store](https://assetstore.unity.com/packages/tools/game-toolkits/interacta-a-screen-center-proximity-interaction-kit-273985). 
 
+{{< youtube wPbC6mK7idM >}}
 
 ## What is Interacta?
 
