@@ -7,4 +7,4 @@ thumbnail: https://cdnb.artstation.com/p/assets/covers/images/070/265/279/small_
 external: https://gasimo.itch.io/nightshift
 ---
 
-A short satirical first person horror game in Unity3D & HDRP.
+Ječná Nightshift is a short semi-serious single-player horror game, where you assume the role of a schoolkeeper at Ječná, a fictional mid school in Prague. Each night shift brings new mechanics, places to explore and secrets to reveal. Made with Unity & HDRP.

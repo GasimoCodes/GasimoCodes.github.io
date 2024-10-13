@@ -57,26 +57,5 @@
       <guid>https://gasimo.dev/portfolio/tags/multiplayer/</guid>
       <description></description>
     </item>
-    <item>
-      <title>3D</title>
-      <link>https://gasimo.dev/portfolio/tags/3d/</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/tags/3d/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blender</title>
-      <link>https://gasimo.dev/portfolio/tags/blender/</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/tags/blender/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Substance</title>
-      <link>https://gasimo.dev/portfolio/tags/substance/</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/tags/substance/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

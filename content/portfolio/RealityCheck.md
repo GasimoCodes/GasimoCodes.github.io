@@ -7,4 +7,4 @@ thumbnail: https://cdna.artstation.com/p/assets/images/images/069/818/538/small/
 external: https://gasimo.itch.io/reality-check
 ---
 
-Short 48hours GameJam platformer. I've made the art and gameplay code.
+Short 48hours GameJam platformer made in Unity URP about a silly wizard who can shift between worlds.

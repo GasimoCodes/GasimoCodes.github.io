@@ -20,35 +20,35 @@
       <link>https://gasimo.dev/portfolio/flaxicons/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/flaxicons/</guid>
-      <description></description>
+      <description>A set of icons I made for the Flax Engine, open to be used by anyone making engines/engine tools.</description>
     </item>
     <item>
       <title>Subtitler (Closed-Captions game Tool)</title>
       <link>https://gasimo.dev/portfolio/subtitler/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/subtitler/</guid>
-      <description>A powerful Subtitling/Closed-Captions solution for Unity with SRT support, Multiplay, Localization and more.</description>
+      <description>A powerful Subtitling/Closed-Captions solution for Unity with SRT support, Multiplay, Timeline, Localization and more.</description>
     </item>
     <item>
-      <title>Reality Check (GameJam Platformer)</title>
-      <link>https://gasimo.dev/portfolio/realitycheck/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/realitycheck/</guid>
-      <description>Short 48hours GameJam platformer. I&amp;rsquo;ve made the art and gameplay code.</description>
-    </item>
-    <item>
-      <title>SCP Iso: Prop Cartoon Illustrations</title>
+      <title>Misc - ArtStation</title>
       <link>https://gasimo.dev/portfolio/scp-cartoon-illustrations/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/scp-cartoon-illustrations/</guid>
       <description></description>
     </item>
     <item>
+      <title>Reality Check (GameJam Platformer)</title>
+      <link>https://gasimo.dev/portfolio/realitycheck/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/realitycheck/</guid>
+      <description>Short 48hours GameJam platformer made in Unity URP about a silly wizard who can shift between worlds.</description>
+    </item>
+    <item>
       <title>Ječná Nightshift</title>
       <link>https://gasimo.dev/portfolio/jecnanightshift/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/jecnanightshift/</guid>
-      <description>A short satirical first person horror game in Unity3D &amp;amp; HDRP.</description>
+      <description>Ječná Nightshift is a short semi-serious single-player horror game, where you assume the role of a schoolkeeper at Ječná, a fictional mid school in Prague. Each night shift brings new mechanics, places to explore and secrets to reveal. Made with Unity &amp;amp; HDRP.</description>
     </item>
     <item>
       <title>SCP: Classified Site</title>
@@ -62,21 +62,7 @@
       <link>https://gasimo.dev/portfolio/newgen/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/newgen/</guid>
-      <description> https://github.com/GasimoCodes/MapGen&#xD;</description>
-    </item>
-    <item>
-      <title>SCP Iso: Devices</title>
-      <link>https://gasimo.dev/portfolio/iso-devices-1/</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/iso-devices-1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SCP Iso: Environment Lighting</title>
-      <link>https://gasimo.dev/portfolio/iso-ui/</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/iso-ui/</guid>
-      <description></description>
+      <description>Mapgen is a tool formerly developed for SCP: Classified Site, but later open-sourced and reused in Ječná Nightshift to generate a randomized secret bonus level.&#xA;Github&#xD;Features Generate N amount of zones Pick up custom zone size and set of rooms to occupy each zone Select which zones to connect and by up to how many connectors Define rooms using ScriptableObjects Gurantee the spawn of rooms marked as MustSpawn Place rooms which occupy more than 1 cell (as long as room exits are within the same cell) Gurantee that all generated rooms are reachable Fully deterministic Documentation and Tech Overview Google Doc&#xD;</description>
     </item>
     <item>
       <title>Fragmented Minds (UI)</title>
