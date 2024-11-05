@@ -7,7 +7,7 @@ theme = 'blist'
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = false
-
+disablePathToLower = true
 
 
 [params]
@@ -44,8 +44,6 @@ DefaultContentLanguageInSubdir = false
 
   # The page bundle that is shown on the front page
   frontBundle = "blog"
-
-  
 
 
   # Used to hide the post metadata such as posted date, reading time and word count
@@ -104,7 +102,7 @@ DefaultContentLanguageInSubdir = false
 
   [[params.homepage.social.icons]]
     website = "linkedin"
-    url = "https://www.linkedin.com/in/prokop-sva%C4%8Dina-2633391a3/"
+    url = "www.linkedin.com/in/prokop-svačina-2633391a3"
 
 
 [menu]
@@ -122,6 +120,33 @@ DefaultContentLanguageInSubdir = false
     name = "Games"
     url = "games"
     weight = "2"
+
+
+[[menu.main]]
+    name = "Plugins"
+    identifier = "plug"  # Unique identifier for nested items
+    url = "#"
+    weight = 2
+
+  [[menu.main]]
+    name = "Subtitler"
+    url = "/Subtitler/"
+    parent = "plug"      # Link to parent identifier
+    weight = 3
+
+  [[menu.main]]
+    name = "Interacta"
+    url = "/Interacta/"
+    parent = "plug"
+    weight = 4
+
+    [[menu.main]]
+    name = "FaceToons"
+    url = "/FaceToons/"
+    parent = "plug"
+    weight = 4
+
+
 
 [[menu.main]]
     name = "Portfolio"
