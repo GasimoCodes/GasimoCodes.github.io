@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games on Gasimo</title>
-    <link>https://gasimo.dev/portfolio/tags/games/</link>
+    <link>https://gasimo.dev/portfolio/tags/Games/</link>
     <description>Recent content in Games on Gasimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gasimo.dev/portfolio/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gasimo.dev/portfolio/tags/Games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reality Check (GameJam Platformer)</title>
-      <link>https://gasimo.dev/portfolio/realitycheck/</link>
+      <link>https://gasimo.dev/portfolio/RealityCheck/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/realitycheck/</guid>
+      <guid>https://gasimo.dev/portfolio/RealityCheck/</guid>
       <description>Short 48hours GameJam platformer made in Unity URP about a silly wizard who can shift between worlds.</description>
     </item>
     <item>
       <title>Ječná Nightshift</title>
-      <link>https://gasimo.dev/portfolio/jecnanightshift/</link>
+      <link>https://gasimo.dev/portfolio/JecnaNightshift/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/jecnanightshift/</guid>
+      <guid>https://gasimo.dev/portfolio/JecnaNightshift/</guid>
       <description>Ječná Nightshift is a short semi-serious single-player horror game, where you assume the role of a schoolkeeper at Ječná, a fictional mid school in Prague. Each night shift brings new mechanics, places to explore and secrets to reveal. Made with Unity &amp;amp; HDRP.</description>
     </item>
     <item>
       <title>SCP: Classified Site</title>
-      <link>https://gasimo.dev/portfolio/scpcs/</link>
+      <link>https://gasimo.dev/portfolio/SCPCS/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/scpcs/</guid>
+      <guid>https://gasimo.dev/portfolio/SCPCS/</guid>
       <description>SCP Classified Site is a Unity Crossplatform Multiplayer game I co-founded and developed alongside Aizyka.&#xA;Notable things I have developed for CS is the Spherecast-based Interaction System, Inventory &amp;amp; Item Logic and Architecture and Random Map Generator. In the first year after release the game obtained over 1 milion downloads from the Play Store alone.</description>
     </item>
     <item>
       <title>Map Generation System (SCP:CS)</title>
-      <link>https://gasimo.dev/portfolio/newgen/</link>
+      <link>https://gasimo.dev/portfolio/NewGen/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/newgen/</guid>
+      <guid>https://gasimo.dev/portfolio/NewGen/</guid>
       <description>Mapgen is a tool formerly developed for SCP: Classified Site, but later open-sourced and reused in Ječná Nightshift to generate a randomized secret bonus level.&#xA;Github&#xD;Features Generate N amount of zones Pick up custom zone size and set of rooms to occupy each zone Select which zones to connect and by up to how many connectors Define rooms using ScriptableObjects Gurantee the spawn of rooms marked as MustSpawn Place rooms which occupy more than 1 cell (as long as room exits are within the same cell) Gurantee that all generated rooms are reachable Fully deterministic Documentation and Tech Overview Google Doc&#xD;</description>
     </item>
   </channel>
