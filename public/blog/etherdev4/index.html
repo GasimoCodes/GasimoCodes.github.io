@@ -15,8 +15,8 @@ Terrain Change The map is receiving a major redo. I wanted to make the &lsquo;ho
   <meta name="author" content="Gasimo" />
   <meta name="generator" content="Hugo 0.121.2"><link
     rel="stylesheet"
-    href="https://gasimo.dev/css/styles.min.d8ca062a53b3d7a63af5999e435eb44ad08a950ab62f8b82ace3ad6e21ff0b4a.css"
-    integrity="sha256-2MoGKlOz16Y69ZmeQ160StCKlQq2L4uCrOOtbiH/C0o="
+    href="https://gasimo.dev/css/styles.min.bb580baccfe1129052a9e871210d3c51f486c31a95f9d1604bee0454c11a585b.css"
+    integrity="sha256-u1gLrM/hEpBSqehxIQ08UfSGwxqV+dFgS+4EVMEaWFs="
   />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link rel="stylesheet" href="/scss/main.css">
@@ -57,87 +57,77 @@ Terrain Change The map is receiving a major redo. I wanted to make the &lsquo;ho
     <p>Gasimo</p>
   </a>
   <button class="mobile-menu-button md:hidden">
-    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" stroke-width="1.5"
+      stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
       <line x1="4" y1="8" x2="20" y2="8" />
       <line x1="4" y1="16" x2="20" y2="16" />
     </svg>
   </button>
+
   <ul class="mobile-menu absolute z-10 px-6 pb-6 md:p-0 top-full left-0 w-full md:w-auto md:relative hidden md:flex flex-col md:flex-row items-end md:items-center gap-4 lg:gap-6 bg-white dark:bg-gray-800">
     
-      
-        <li>
-          <a href="/" class="block">Home</a>
-        </li>
-      
-    </li>
-    
-      
-        <li>
-          <a href="/blog" class="block">Blog</a>
-        </li>
-      
-    </li>
-    
-      
-        <li>
-          <a href="/games" class="block">Games</a>
-        </li>
-      
-    </li>
-    
-      
-      
-      <li class="relative group">
-        <div class="flex items-center">
-        <a href="/#" class="block">Plugins</a>
-        <svg class="w-4 h-4 inline" fill="currentColor" viewBox="0 0 20 20">
-          <path d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"/>
-        </svg>
+  
+  
+  <li>
+    <a href="/" class="block">Home</a>
+  </li>
+  
 
-      </div>
+  
+  <li>
+    <a href="/blog" class="block">Blog</a>
+  </li>
+  
+
+  
+  <li>
+    <a href="/games" class="block">Games</a>
+  </li>
+  
+
+  
+  <li class="relative cursor-pointer">
+    <span class="menu-switcher flex items-center gap-2">
+      <a href="#" class="block">Plugins</a>
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"
+        viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round"
+        stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+        <path d="M18 15l-6 -6l-6 6h12" transform="rotate(180 12 12)" />
+      </svg>
+    </span>
+
+    <div class="menu-dropdown absolute top-full mt-2 left-0 flex-col gap-4 bg-gray-100 dark:bg-gray-900 dark:text-white z-10 hidden w-48">
       
-        <div class="sm:block md:hidden md:group-hover:block md:absolute md:left-0 md:bg-white md:dark:bg-gray-800 md:shadow-lg md:rounded-lg">
-          <ul>
-            
-              <li>
-                <a href="/Subtitler/" class="block px-4 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 w-48">Subtitler</a>
-              </li>
-            
-              <li>
-                <a href="/FaceToons/" class="block px-4 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 w-48">FaceToons</a>
-              </li>
-            
-              <li>
-                <a href="/Interacta/" class="block px-4 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 w-48">Interacta</a>
-              </li>
-            
-          </ul>
-        </div>
+        <a class="px-3 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 block" href="/Subtitler/">Subtitler</a>
       
-    </li>
-    
+        <a class="px-3 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 block" href="/FaceToons/">FaceToons</a>
       
-        <li>
-          <a href="/portfolio" class="block">Portfolio</a>
-        </li>
+        <a class="px-3 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 block" href="/Interacta/">Interacta</a>
       
-    </li>
-    
-      
-        <li>
-          <a href="https://www.patreon.com/StormingSummit" class="block">Patreon</a>
-        </li>
-      
-    </li>
-    
-      
-        <li>
-          <a href="/contact" class="block">Contact</a>
-        </li>
-      
-    </li>
-    
+    </div>
+  </li>
+  
+
+  
+  <li>
+    <a href="/portfolio" class="block">Portfolio</a>
+  </li>
+  
+
+  
+  <li>
+    <a href="https://www.patreon.com/StormingSummit" class="block">Patreon</a>
+  </li>
+  
+
+  
+  <li>
+    <a href="/contact" class="block">Contact</a>
+  </li>
+  
+
 
 
     
@@ -159,6 +149,36 @@ Terrain Change The map is receiving a major redo. I wanted to make the &lsquo;ho
   </ul>
 </header>
 
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    
+    const menuSwitchers = document.querySelectorAll('.menu-switcher');
+    menuSwitchers.forEach(switcher => {
+      switcher.addEventListener('click', function() {
+        const dropdown = this.nextElementSibling;
+        const isActive = dropdown.classList.contains('hidden');
+        
+        
+        document.querySelectorAll('.menu-dropdown, .language-dropdown').forEach(d => {
+          if (d !== dropdown) d.classList.add('hidden');
+        });
+        
+        
+        dropdown.classList.toggle('hidden');
+      });
+    });
+  
+    
+    document.addEventListener('click', function(event) {
+      if (!event.target.closest('.menu-switcher') && !event.target.closest('.language-switcher')) {
+        document.querySelectorAll('.menu-dropdown, .language-dropdown').forEach(dropdown => {
+          dropdown.classList.add('hidden');
+        });
+      }
+    });
+  });
+  </script>
+  
   </header>
   <main class="flex-1">
     
