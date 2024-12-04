@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Gasimo</title>
+    <link>https://gasimo.dev/</link>
+    <description>Recent content in Home on Gasimo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gasimo.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interacta Now Available On Asset Store</title>
+      <link>https://gasimo.dev/blog/interactarelease/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/interactarelease/</guid>
+      <description>I am excited to share that Interacta - A Screen-Center Proximity Interaction Kit is now live on the Asset Store&#xD;.&#xA;What is Interacta? Interacta is a game interaction framework designed to streamline object selection in your games. It automatically identifies items located at the center of the screen—specifically, interactables that players are looking at. This approach offers significant advantages over the traditional method of requiring precise alignment with a target.</description>
+    </item>
+    <item>
+      <title>Interacta (Screen-Space Center Proximity Interaction Framework)</title>
+      <link>https://gasimo.dev/portfolio/Interacta/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/Interacta/</guid>
+      <description>Spherecast-based interaction framework I initially developed for my own projects.</description>
+    </item>
+    <item>
+      <title>Ether Devlog 8 - EMF, Camera &amp; Vegetation</title>
+      <link>https://gasimo.dev/blog/etherdev8/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev8/</guid>
+      <description>Heyo everyone! It&amp;rsquo;s time for the nearly-monthly Ether update! This month has been given to polishing the ship and bringing the world to life with some needed water &amp;amp; flora changes! Let&amp;rsquo;s dive in!&#xA;EMF Camera Ether now features an EMF Camera which allows you to trace EMF traces in the field. Source of the interference can be devices, natural phenomena but also anomalies.&#xA;When you encounter a strong EMF Source, you can use the EMF Camera to record it to be later played (and uploaded) at the base.</description>
+    </item>
+    <item>
+      <title>Ether Devlog 7</title>
+      <link>https://gasimo.dev/blog/etherdev7/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev7/</guid>
+      <description>Hello Everyone! Welcome to June&amp;rsquo;s Ether Devlog No. 7! This time, I&amp;rsquo;ve finally gotten to remaking the ship controller. But wait, there&amp;rsquo;s more! This month was brought to you by our Patrons Walpar, Pitti, Kyle and Vaipu.&#xA;New Ship! I have remade the controls, added (faked) buoyancy, added sonar, and made a new model. It&amp;rsquo;s a major improvement over the last version&amp;rsquo;s ship system, and I feel pretty confident about it going forward!</description>
+    </item>
+    <item>
+      <title>Ether Devlog 6</title>
+      <link>https://gasimo.dev/blog/etherdev6/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev6/</guid>
+      <description>Hello everyone! Its the monthly Devlog time! This time focusing on gameplay, brought to you by our Patrons Walpar, Pitti, Kyle and Vaipu. (Original Post with animated pictures available here&#xD;)&#xA;Spawners I have implemented a system which allows me to randomly spawn objects on the land or sea and align them automatically with the surface. This will be soon used to spawn events and beacons, some of which will be visible from the SatMap.</description>
+    </item>
+    <item>
+      <title>Ether Devlog 5</title>
+      <link>https://gasimo.dev/blog/etherdev5/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev5/</guid>
+      <description>Greetings, everyone. It is that time. The time when I do the thing. The thing with the devlog! Special thanks to my Patrons Walpar, Kyle, Pitti and Vaipu!&#xA;Random Signals This was haunting the to-do list for at least 2 months now and I am happy I can finally cross it off. The game now spawns random signals (both sellable and not) so the player has means to earn credits outside of story-events.</description>
+    </item>
+    <item>
+      <title>Fungoria, the shroomey Gamejam submission</title>
+      <link>https://gasimo.dev/blog/fungoriacheckgamejam/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/fungoriacheckgamejam/</guid>
+      <description>Another semester, another gamejam! Since Amanita Design was the organizer of the jam, it was only fitting the theme turned out to be &amp;ldquo;Fungipunk&amp;rdquo;.&#xA;For our game we decided to create a tiny tycoon filled with so-called &amp;ldquo;industrial shrooms&amp;rdquo;. Sadly due to time-limits we were not able to deliver as good and vast game we had initially imagined. Selecting Godot also slowed us a bit as I had no prior experience in it, but I believe it was worth it since I learned some new software workflows!</description>
+    </item>
+    <item>
+      <title>Ether Devlog 4</title>
+      <link>https://gasimo.dev/blog/etherdev4/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev4/</guid>
+      <description>Heyos Everyone! Its a new year and alongside it comes a new Ether devlog. (This post was released a week in advance for my Patrons Walpar, Kyle, Pitti and Vaipu!&#xD;)&#xA;Terrain Change The map is receiving a major redo. I wanted to make the &amp;lsquo;home&amp;rsquo; island bigger, mountains taller and environment more natural and faithful to Greenland. This also allows me to fit more landmarks to explore for the player.</description>
+    </item>
+    <item>
+      <title>Flax Engine Icon Pack</title>
+      <link>https://gasimo.dev/portfolio/FlaxIcons/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/FlaxIcons/</guid>
+      <description>A set of icons I made for the Flax Engine, open to be used by anyone making engines/engine tools.</description>
+    </item>
+    <item>
+      <title>Subtitler (Closed-Captions game Tool)</title>
+      <link>https://gasimo.dev/portfolio/Subtitler/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/Subtitler/</guid>
+      <description>A powerful Subtitling/Closed-Captions solution for Unity with SRT support, Multiplay, Timeline, Localization and more.</description>
+    </item>
+    <item>
+      <title>Ether Devlog 3</title>
+      <link>https://gasimo.dev/blog/etherdev3/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev3/</guid>
+      <description>[This post was exclusively available ahead of time to my Patrons Vaipu, Walpar and Kyle]&#xA;Heloooooo Patrons!! Its that time of the month again! This month was quite an eventful one for Ether. I made a bunch of both graphical and gameplay improvements. Lets go one by one.&#xA;Bunker The bunker has received a major lighting redo and some layout updates to better serve gameplay. The player now needs to go into a bigger control room to use the computer and fancy instruments.</description>
+    </item>
+    <item>
+      <title>Reality Check, our GameJam submission!</title>
+      <link>https://gasimo.dev/blog/realitycheckgamejam/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/realitycheckgamejam/</guid>
+      <description>Me and my friends Barbo and Ondrej competed in the 42 hours GDS Gamejam! You can play our submission over at my Itch.io page!&#xD;Whats Reality Check? Its a stylized puzzle-platformer, where you play as a silly wizard being exploring the world with a twist. You possess the ability to rift between alternate versions of reality. One being authentic while the other is a facade of the real world.&#xA;Gameplay Solve puzzles, explore dual worlds, and collect some shiny stars.</description>
+    </item>
+    <item>
+      <title>Tech behind Ječná Part 3: Subtitles</title>
+      <link>https://gasimo.dev/blog/nightshifttech2/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/nightshifttech2/</guid>
+      <description>Hello everyone! Welcome to today&amp;rsquo;s devtalk! In this session, we&amp;rsquo;ll be delving into the fascinating realm of subtitles.&#xA;Subtitler The entirety of my subtitle system (conveniently nicknamed &amp;ldquo;Subtitler&amp;rdquo;) is open-source and available over at my github&#xD;!&#xA;During development, I quickly realized that some in-game dialogue may be hard to hear. Implementing a subtitle system was the most obvious solution. However, as the game scaled, it turned out to be a bit more complex than I initially anticipated.</description>
+    </item>
+    <item>
+      <title>Tech behind Ječná Part 2: Environment</title>
+      <link>https://gasimo.dev/blog/nightshifttech3/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/nightshifttech3/</guid>
+      <description>Heya everyone! It&amp;rsquo;s time for a healthy dose of tech talk, where I rant about how I developed Nightshift. This time we are looking at the graphics, environment, and optimization efforts in Nightshift (This will not cover ray-tracing as that was more of an experiment than a feature, and is currently not even performant enough to be considered usable).&#xA;Lighting Ječná Nightshift environment is lit by various artificial lights ranging from hallway lamps, monitors, and flashlight down to table lamps.</description>
+    </item>
+    <item>
+      <title>Tech behind Ječná Part 1: Interaction System</title>
+      <link>https://gasimo.dev/blog/nightshifttech1/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/nightshifttech1/</guid>
+      <description>Greetings everyone! Its time for some Gasimo Tech Tips, where I rant about some of the systems I have developed for Nightshift (some are open-sourced over at my github!). This one focuses on the interaction framework.&#xA;Interaction System This is one of the first components I have developed for Nightshift back in the day where it was just a demonstration student project. I wanted to get rid of the commonly used raycast-based system, which plagues the majority of first person indie horror games.</description>
+    </item>
+    <item>
+      <title>Ether Devlog 2</title>
+      <link>https://gasimo.dev/blog/etherdev2/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev2/</guid>
+      <description>(This post&#xD;was released 3 days ago to my supporters over at Patreon: Walpar, Vaipu and Kyle!)&#xA;Hello everyone!&#xA;During the last 20 days Ive put some work into the environment. The blocky prototyping aesthetic of the previous devlog just wasnt fun enough to walk through during development.&#xA;As part of the visual update, the CRT monitor(s) in the base got a new CRTish shader which I made to mimick the effect when you move your camera close to the monitor (The effect fades with distance to prevent it from distracting the player)</description>
+    </item>
+    <item>
+      <title>Ether Devlog 1</title>
+      <link>https://gasimo.dev/blog/etherdev1/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev1/</guid>
+      <description>Heya everyone!&#xA;Its time to update you a bit on progress I made on Ether since last update. This is my first week at the university and the math is rather taxing so excuse the next devlog being shorter or delayed.&#xA;Ive managed to create a pretty fast and extendable event system for the game, which allows me to run various in-game events based on day, current time or even to schedule events randomly based on criteria for some replay value!</description>
+    </item>
+    <item>
+      <title>Ether Devlog 0</title>
+      <link>https://gasimo.dev/blog/etherdev0/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev0/</guid>
+      <description>Heya everyone!&#xA;Its time to update you a bit on progress I made on Ether since last update. This is my first week at the university and the math is rather taxing so excuse the next devlog being shorter or delayed.&#xA;Ive managed to create a pretty fast and extendable event system for the game, which allows me to run various in-game events based on day, current time or even to schedule events randomly based on criteria for some replay value!</description>
+    </item>
+    <item>
+      <title>Misc - ArtStation</title>
+      <link>https://gasimo.dev/portfolio/SCP-Cartoon-Illustrations/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/SCP-Cartoon-Illustrations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reality Check (GameJam Platformer)</title>
+      <link>https://gasimo.dev/portfolio/RealityCheck/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/RealityCheck/</guid>
+      <description>Short 48hours GameJam platformer made in Unity URP about a silly wizard who can shift between worlds.</description>
+    </item>
+    <item>
+      <title>Ječná Nightshift</title>
+      <link>https://gasimo.dev/portfolio/JecnaNightshift/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/JecnaNightshift/</guid>
+      <description>Ječná Nightshift is a short semi-serious single-player horror game, where you assume the role of a schoolkeeper at Ječná, a fictional mid school in Prague. Each night shift brings new mechanics, places to explore and secrets to reveal. Made with Unity &amp;amp; HDRP.</description>
+    </item>
+    <item>
+      <title>SCP: Classified Site</title>
+      <link>https://gasimo.dev/portfolio/SCPCS/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/SCPCS/</guid>
+      <description>SCP Classified Site is a Unity Crossplatform Multiplayer game I co-founded and developed alongside Aizyka.&#xA;Notable things I have developed for CS is the Spherecast-based Interaction System, Inventory &amp;amp; Item Logic and Architecture and Random Map Generator. In the first year after release the game obtained over 1 milion downloads from the Play Store alone.</description>
+    </item>
+    <item>
+      <title>Map Generation System (SCP:CS)</title>
+      <link>https://gasimo.dev/portfolio/NewGen/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/NewGen/</guid>
+      <description>Mapgen is a tool formerly developed for SCP: Classified Site, but later open-sourced and reused in Ječná Nightshift to generate a randomized secret bonus level.&#xA;Github&#xD;Features Generate N amount of zones Pick up custom zone size and set of rooms to occupy each zone Select which zones to connect and by up to how many connectors Define rooms using ScriptableObjects Gurantee the spawn of rooms marked as MustSpawn Place rooms which occupy more than 1 cell (as long as room exits are within the same cell) Gurantee that all generated rooms are reachable Fully deterministic Documentation and Tech Overview Google Doc&#xD;</description>
+    </item>
+    <item>
+      <title>Fragmented Minds (UI)</title>
+      <link>https://gasimo.dev/portfolio/Fragmented-Minds-UI/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/Fragmented-Minds-UI/</guid>
+      <description>I have provided Concept Art (Illustrator, Playable mockups in Unity) for the User Interface of the game. Notably for the PDA, HUD &amp;amp; in-universe devices.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://gasimo.dev/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/contact/</guid>
+      <description>Email support@gasimo.dev&#xD;Links Patreon&#xD;Artstation&#xD;Github&#xD;LinkedIn&#xD;Socials Discord: @Gasimo </description>
+    </item>
+    <item>
+      <title>Games</title>
+      <link>https://gasimo.dev/games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello@s</title>
+      <link>https://gasimo.dev/roxxyewe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/roxxyewe/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
