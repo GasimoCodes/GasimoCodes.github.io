@@ -1,6 +1,6 @@
 ---
 author: "Gasimo"
-title: "Ether Devlog 9 - EMF, Camera & Vegetation"
+title: "Ether Devlog 9 - Sea, Ship & Map Streaming"
 date: 2025-01-01
 tags: ["Ether", "Devlog", "Featured"]
 thumbnail: /blog/dev9.png
