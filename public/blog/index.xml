@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Gasimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gasimo.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ether Devlog 9 - EMF, Camera &amp; Vegetation</title>
+      <link>https://gasimo.dev/blog/etherdev9/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/blog/etherdev9/</guid>
+      <description>Hello everyone and happy new year! Its been a while! There were some major changes to the backend (like a whole change of rendering engine, many shaders and a map streaming&amp;hellip;). Those changes weren&amp;rsquo;t visual so I didn&amp;rsquo;t have enough to show to warrant its own backlog&amp;hellip; until now!&#xA;The Sea update Anything sea related was completely reworked. The rendering backend was changed to allow for more dynamic waves and body-water interactions.</description>
+    </item>
     <item>
       <title>Interacta Now Available On Asset Store</title>
       <link>https://gasimo.dev/blog/interactarelease/</link>
