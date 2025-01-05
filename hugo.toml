@@ -102,7 +102,7 @@ disablePathToLower = true
 
   [[params.homepage.social.icons]]
     website = "linkedin"
-    url = "www.linkedin.com/in/prokop-svačina-2633391a3"
+    url = "https://www.linkedin.com/in/prokop-svačina-2633391a3"
 
 
 [menu]
