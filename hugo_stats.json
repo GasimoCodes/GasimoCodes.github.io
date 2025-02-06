@@ -287,6 +287,7 @@
     "ids": [
       "TableOfContents",
       "a-wild-problem-has-appeared",
+      "added",
       "adding-in-interactables-is-as-simple-as-implementing",
       "ambiance-changes",
       "are-spherecasts-here-to-stay",
@@ -295,6 +296,7 @@
       "backstory---spherecast-for-the-masses",
       "beep-boop",
       "blackouts-2nd-try",
+      "bugfixes",
       "bunker",
       "cave",
       "caves",
@@ -313,6 +315,7 @@
       "gameplay",
       "graphics",
       "hiding",
+      "improvements",
       "interaction-system",
       "issues-inherent-to-spherecasts",
       "lighting",
@@ -334,6 +337,7 @@
       "satmap",
       "sea",
       "selection-using-spherecasting",
+      "signals",
       "smaller-changes",
       "socials",
       "some-smaller-changes",
@@ -342,7 +346,9 @@
       "switching-to-apvs",
       "team",
       "terrain-change",
+      "the-non-exhaustive-list-of-other-minor-changes",
       "the-numerous-problems-with-the-in-game-radio-tuner",
+      "the-sea-update",
       "to-do",
       "to-dos",
       "tools-used",
@@ -355,6 +361,7 @@
       "what-if-player-goes-away-mid-dialogue",
       "what-is-interacta",
       "whats-reality-check",
+      "world",
       "worldbuilding"
     ]
   }

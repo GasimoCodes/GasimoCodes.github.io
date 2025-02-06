@@ -146,6 +146,12 @@ disablePathToLower = true
     parent = "plug"
     weight = 4
 
+    [[menu.main]]
+    name = "CineBlend"
+    url = "/CineBlend/"
+    parent = "plug"
+    weight = 5
+
 
 
 [[menu.main]]
