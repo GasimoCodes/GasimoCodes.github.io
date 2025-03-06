@@ -102,7 +102,7 @@ disablePathToLower = true
 
   [[params.homepage.social.icons]]
     website = "linkedin"
-    url = "https://www.linkedin.com/in/prokop-svačina-2633391a3"
+    url = "https://www.linkedin.com/in/prokop-svacina/"
 
 
 [menu]
@@ -117,10 +117,9 @@ disablePathToLower = true
     weight = "2"
 
 [[menu.main]]
-    name = "Games"
-    url = "games"
+    name = "Portfolio"
+    url = "/portfolio"
     weight = "2"
-
 
 [[menu.main]]
     name = "Plugins"
@@ -152,12 +151,6 @@ disablePathToLower = true
     parent = "plug"
     weight = 5
 
-
-
-[[menu.main]]
-    name = "Portfolio"
-    url = "/portfolio"
-    weight = "2"
 
 [[menu.main]]
     name = "Contact"
