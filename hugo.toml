@@ -187,3 +187,10 @@ disablePathToLower = true
 
 
 custom_css = ["scss/main.css"]
+
+
+[markup.goldmark.renderHooks.image]
+enableDefault = true
+
+[markup.goldmark.renderHooks.link]
+enableDefault = true

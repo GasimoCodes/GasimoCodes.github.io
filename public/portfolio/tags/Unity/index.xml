@@ -9,18 +9,18 @@
     <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gasimo.dev/portfolio/tags/Unity/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Interacta (Screen-Space Center Proximity Interaction Framework)</title>
+      <title>Interacta Interaction Framework</title>
       <link>https://gasimo.dev/portfolio/Interacta/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/Interacta/</guid>
-      <description>Spherecast-based interaction framework I initially developed for my own projects.</description>
+      <description>Spherecast-based interaction framework for selecting items the player is looking at.</description>
     </item>
     <item>
-      <title>Subtitler (Closed-Captions game Tool)</title>
+      <title>Subtitler (Closed-Captions)</title>
       <link>https://gasimo.dev/portfolio/Subtitler/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/Subtitler/</guid>
-      <description>A powerful Subtitling/Closed-Captions solution for Unity with SRT support, Multiplay, Timeline, Localization and more.</description>
+      <description>A powerful Subtitling/Closed-Captions solution for Unity with SRTs, Multiplay, Timeline, Localization and more.</description>
     </item>
     <item>
       <title>Reality Check (GameJam Platformer)</title>
