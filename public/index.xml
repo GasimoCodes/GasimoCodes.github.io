@@ -9,6 +9,13 @@
     <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gasimo.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Tektronix Compute SVG Renderer</title>
+      <link>https://gasimo.dev/portfolio/TektronixRenderer/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/portfolio/TektronixRenderer/</guid>
+      <description>Minimal SVG Renderer in the style of Tektronix 401x utilizing GPU Compute for animated rasterization</description>
+    </item>
+    <item>
       <title>CineBlend</title>
       <link>https://gasimo.dev/portfolio/CineBlend/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
