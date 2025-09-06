@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gasimo.dev/homeostasis/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gasimo.dev/portfolio/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -36,6 +39,9 @@
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gasimo.dev/blog/etherdev9/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gasimo.dev/homeostasis/tech/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gasimo.dev/blog/interactarelease/</loc>
@@ -133,6 +139,8 @@
     <loc>https://gasimo.dev/games/</loc>
   </url><url>
     <loc>https://gasimo.dev/roxxyewe/</loc>
+  </url><url>
+    <loc>https://gasimo.dev/homeostasis/presskit/</loc>
   </url><url>
     <loc>https://gasimo.dev/games/roxxyewe/</loc>
   </url>

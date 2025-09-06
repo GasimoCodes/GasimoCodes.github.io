@@ -1,0 +1,162 @@
+{{define "head"}}
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Homeostasis</title>
+
+<link rel="icon" type="image/x-icon" href="./favicon.ico">
+
+{{- partial "head.html" . -}}
+<link rel="stylesheet" href="./style.css">
+
+{{ end }}
+
+
+
+{{ define "header-content" }}
+
+    {{ range .Site.Menus.homeostasis }}
+    {{if .HasChildren}}
+    <li class="relative cursor-pointer">
+        <span class="menu-switcher flex items-center gap-2">
+        <a href="#" class="block">{{ .Name }}</a>
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"
+            viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round"
+            stroke-linejoin="round">
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <path d="M18 15l-6 -6l-6 6h12" transform="rotate(180 12 12)" />
+        </svg>
+        </span>
+
+        <div class="menu-dropdown absolute top-full mt-2 left-0 flex-col gap-4 bg-gray-100 dark:bg-gray-900 dark:text-white z-10 hidden w-48">
+        {{ range .Children }}
+            <a class=" episode-title px-3 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 block" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+        {{ end }}
+        </div>
+    </li>
+    {{ else }}
+    <li>
+        <a href="{{ .URL | relLangURL }}" class="block">{{ .Name }}</a>
+    </li>
+    {{ end }}
+    {{ end }}
+
+{{ end }}
+
+
+{{define "logo"}}
+<a href="{{ .Site.Home.Permalink }}" class="capitalize font-extrabold text-2xl flex space-x-2">
+    <img src="./logo.png" alt="{{ .Site.Title }}" class="h-10 max-w-full" />
+{{end}}
+
+
+{{define "main"}}
+
+
+<div class="hero relative text-left text-white">
+
+  <!-- Background video -->
+  <video autoplay muted loop playsinline class="absolute top-0 left-0 w-full h-full object-cover -z-10">
+    <source src="./vid.mp4" type="video/mp4">
+  </video>
+
+  <!-- Hero content -->
+  <div class="container relative z-10">
+    <img src="./logo.png" alt="Homeostasis Logo" class="h-24 mb-4">
+
+    <p class="subtitle">
+      Navigate a desolate snowscape in your lone vehicle, keep your systems running, and unravel unsettling clues about the last expedition in this short retro survival horror experience.
+    </p>
+    <br>
+    <br>
+    
+    <div class="flex flex-wrap gap-4">
+      <button class="bg-red-700 hover:bg-red-800 text-white font-bold p-4 inline-flex items-center">
+        <a href="https://store.steampowered.com/app/3748480/Homeostasis/">Wishlist on Steam</a>
+      </button>
+      <button class="bg-red-700 hover:bg-red-800 text-white font-bold p-4 inline-flex items-center">
+        <a href="https://www.patreon.com/gasimo">Support on Patreon</a>
+      </button>
+      <button class="bg-red-700 hover:bg-red-800 text-white font-bold p-4 inline-flex items-center">
+        <a href="https://gasimo.kit.com/d0b1fbc10b">Sign up for Mailing List</a>
+      </button>
+    </div>
+  </div>
+
+  <!-- Grunge divider --> 
+  <div class="absolute bottom-0 left-0 w-full object-contain  h-10 bg-repeat-x bg-center"
+       style="background-image: url('./LoopTex.png'); background-size: 150px 200px;">
+  </div>
+</div>
+
+
+
+
+<br>
+
+<div class="container text-white">
+    <div class="content ">
+            
+
+                <div class="feature">
+            <div class="image-placeholder hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+            <div class="feature-content">
+                <h2>You're humanity's only boots on the ground.</h2>
+                <p>
+
+                    A frozen wasteland stretches endlessly before you. Sent to a remote Antarctic region, you’re tasked with a critical mission: assess its habitability for future colonization. Alone in your snow exploration vehicle, you must manage resources, document key sites, and survive long enough to finish the job and return home.
+    
+
+                </p>
+            </div>
+        </div>
+
+
+        <div class="feature">
+            <div class="image-placeholder hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+            <div class="feature-content">
+                <h2>The Machine</h2>
+                <p>
+                    Your vehicle is more than a means of transport—it's your shelter, your furnace, your last line of defense. Outfitted with a mechanical arm and vital instrumentation, it’s your most valuable tool in the snow. 
+                </p>
+
+                <p>
+                    Keep it running, keep it warm, and it might carry you just far enough.
+                </p>
+
+            </div>
+        </div>
+
+
+        <div class="feature">
+            <div class="image-placeholder hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+            <div class="feature-content">
+                <h2>Resources</h2>
+                <p>TBA</p>
+            </div>
+        </div>
+
+    </div>
+
+
+
+<div class="content">
+  <h2 class="text-4xl mb-4">Gallery</h2>
+  <div class="flex flex-wrap justify-center gap-4">
+    <div class="thumbnail hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+    <div class="thumbnail hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+    <div class="thumbnail hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+    <div class="thumbnail hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+    <div class="thumbnail hover3D" style="background-image: url('path-to-your-image.jpg');"></div>
+  </div>
+</div>
+
+</div>
+
+
+
+
+
+{{ end }}
+
+

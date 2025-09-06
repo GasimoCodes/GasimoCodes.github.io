@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}" itemscope itemtype="http://schema.org/WebPage">
+
+<head>
+  {{ block "head" . }}
+    {{- partial "head.html" . -}}
+  {{ end }}
+</head>
+
+<body class="dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen">
+
+  {{ block "header" . }}
+
+    {{ partial "header-begin.html" . }}
+
+  {{ block "logo" . }}
+    {{ partial "logo.html" . }}
+  {{ end }}
+
+  <ul
+    class="mobile-menu absolute z-10 px-6 pb-6 md:p-0 top-full left-0 w-full md:w-auto md:relative hidden md:flex flex-col md:flex-row items-end md:items-center gap-4 lg:gap-6 bg-white dark:bg-gray-800">
+    {{ block "header-content" . }}
+      {{ partial "header-content.html" . }}
+    {{ end }}
+  </ul>
+
+  {{partial "header-end.html" . }}
+
+  {{ end }}
+
+  <main class="flex-1">
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ block "footer" . }}
+  {{- partial "footer.html" . -}}
+  {{ end }}
+</body>
+
+</html>

@@ -105,6 +105,7 @@ disablePathToLower = true
     url = "https://www.linkedin.com/in/prokop-svacina/"
 
 
+
 [menu]
 [[menu.main]]
   name = "Home"
@@ -158,6 +159,12 @@ disablePathToLower = true
     weight = "5"
 
     [[menu.main]]
+    name = "Patreon"
+    url = "https://patreon.com/gasimo"
+    weight = "4"
+
+
+    [[menu.homeostasis]]
     name = "Patreon"
     url = "https://patreon.com/gasimo"
     weight = "4"

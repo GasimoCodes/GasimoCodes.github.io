@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Gasimo</title>
+    <link>https://gasimo.dev/homeostasis/</link>
+    <description>Recent content in Home on Gasimo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gasimo.dev/homeostasis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech</title>
+      <link>https://gasimo.dev/homeostasis/tech/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/homeostasis/tech/</guid>
+      <description>To-do</description>
+    </item>
+    <item>
+      <title>Press Kit</title>
+      <link>https://gasimo.dev/homeostasis/presskit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/homeostasis/presskit/</guid>
+      <description>https://drive.google.com/drive/folders/1Mk25VJ6gX_G3eo4hANdMHZowEzkMLyjf?usp=sharing&#xD;Title: Homeostasis&#xA;Release: TBA&#xA;Platforms: PC (Windows)&#xA;Available on: Steam, Itch.io&#xA;Developer: Gasimo, Saas</description>
+    </item>
+  </channel>
+</rss>

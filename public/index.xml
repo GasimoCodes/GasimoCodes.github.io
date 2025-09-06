@@ -37,6 +37,13 @@
       <description>Hello everyone and happy new year! Its been a while! There were some major changes to the backend (like a whole change of rendering engine, many shaders and a map streaming&amp;hellip;). Those changes weren&amp;rsquo;t visual so I didn&amp;rsquo;t have enough to show to warrant its own backlog&amp;hellip; until now!&#xA;The Sea update Anything sea related was completely reworked. The rendering backend was changed to allow for more dynamic waves and body-water interactions.</description>
     </item>
     <item>
+      <title>Tech</title>
+      <link>https://gasimo.dev/homeostasis/tech/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/homeostasis/tech/</guid>
+      <description>To-do</description>
+    </item>
+    <item>
       <title>Interacta Now Available On Asset Store</title>
       <link>https://gasimo.dev/blog/interactarelease/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
@@ -217,6 +224,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/roxxyewe/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Press Kit</title>
+      <link>https://gasimo.dev/homeostasis/presskit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gasimo.dev/homeostasis/presskit/</guid>
+      <description>https://drive.google.com/drive/folders/1Mk25VJ6gX_G3eo4hANdMHZowEzkMLyjf?usp=sharing&#xD;Title: Homeostasis&#xA;Release: TBA&#xA;Platforms: PC (Windows)&#xA;Available on: Steam, Itch.io&#xA;Developer: Gasimo, Saas</description>
     </item>
     <item>
       <title>Roxxy &amp; Ewe</title>

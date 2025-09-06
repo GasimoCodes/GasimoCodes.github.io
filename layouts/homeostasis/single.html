@@ -1,0 +1,80 @@
+{{define "head"}}
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Homeostasis</title>
+
+<link rel="icon" type="image/x-icon" href="./favicon.ico">
+
+{{- partial "head.html" . -}}
+<link rel="stylesheet" href="../style.css">
+
+{{ end }}
+
+
+
+{{ define "header-content" }}
+
+    {{ range .Site.Menus.homeostasis }}
+    {{if .HasChildren}}
+    <li class="relative cursor-pointer">
+        <span class="menu-switcher flex items-center gap-2">
+        <a href="#" class="block">{{ .Name }}</a>
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"
+            viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round"
+            stroke-linejoin="round">
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <path d="M18 15l-6 -6l-6 6h12" transform="rotate(180 12 12)" />
+        </svg>
+        </span>
+
+        <div class="menu-dropdown absolute top-full mt-2 left-0 flex-col gap-4 bg-gray-100 dark:bg-gray-900 dark:text-white z-10 hidden w-48">
+        {{ range .Children }}
+            <a class=" episode-title px-3 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 block" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+        {{ end }}
+        </div>
+    </li>
+    {{ else }}
+    <li>
+        <a href="{{ .URL | relLangURL }}" class="block">{{ .Name }}</a>
+    </li>
+    {{ end }}
+    {{ end }}
+
+{{ end }}
+
+
+{{define "logo"}}
+<a href="../index.html" class="capitalize font-extrabold text-2xl flex space-x-2">
+    <img src="../logo.png" alt="{{ .Site.Title }}" class="h-10 max-w-full" />
+{{end}}
+
+
+
+
+{{ define "main" }}
+<article class="container mx-auto text-white">
+    
+    <h1 class="text-4xl font-bold mt-10 mb-4">{{ .Title }}</h1>
+  
+  {{ if .Params.image }}
+    <img src="{{ .Params.image }}" alt="{{ .Title }}" class="rounded-lg shadow-sm w-full object-cover mb-4">
+  {{ end }}
+
+  <div class="prose text-white">
+    {{ .Content }}
+  </div>
+
+  {{ if .Params.portfoliotags }}
+    <div class="mt-4">
+      <h2 class="text-xl font-semibold mb-2">Tags:</h2>
+      <div class="flex flex-wrap gap-2">
+        {{ range .Params.portfoliotags }}
+          <a href="{{ "/portfolio/tags/" | relLangURL }}{{ . | urlize }}/" class="bg-gray-200 dark:bg-gray-700 px-3 py-1 rounded-full text-sm hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors">{{ . }}</a>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+</article>
+{{ end }}
+
