@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C# on Gasimo</title>
-    <link>uild/portfolio/tags/C/</link>
+    <link>https://gasimo.dev/portfolio/tags/C/</link>
     <description>Recent content in C# on Gasimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="uild/portfolio/tags/C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gasimo.dev/portfolio/tags/C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CineBlend</title>
-      <link>uild/portfolio/CineBlend/</link>
+      <link>https://gasimo.dev/portfolio/CineBlend/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/CineBlend/</guid>
+      <guid>https://gasimo.dev/portfolio/CineBlend/</guid>
       <description>Virtual Camera Framework for Flax Engine</description>
     </item>
     <item>
       <title>Interacta Interaction Framework</title>
-      <link>uild/portfolio/Interacta/</link>
+      <link>https://gasimo.dev/portfolio/Interacta/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/Interacta/</guid>
+      <guid>https://gasimo.dev/portfolio/Interacta/</guid>
       <description>Spherecast-based interaction framework for selecting items the player is looking at.</description>
     </item>
     <item>
       <title>Subtitler (Closed-Captions)</title>
-      <link>uild/portfolio/Subtitler/</link>
+      <link>https://gasimo.dev/portfolio/Subtitler/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/Subtitler/</guid>
+      <guid>https://gasimo.dev/portfolio/Subtitler/</guid>
       <description>A powerful Subtitling/Closed-Captions solution for Unity with SRTs, Multiplay, Timeline, Localization and more.</description>
     </item>
     <item>
       <title>Map Generation System (SCP:CS)</title>
-      <link>uild/portfolio/NewGen/</link>
+      <link>https://gasimo.dev/portfolio/NewGen/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/NewGen/</guid>
+      <guid>https://gasimo.dev/portfolio/NewGen/</guid>
       <description>Mapgen is a tool formerly developed for SCP: Classified Site, but later open-sourced and reused in Ječná Nightshift to generate a randomized secret bonus level.&#xA;Github&#xD;Features Generate N amount of zones Pick up custom zone size and set of rooms to occupy each zone Select which zones to connect and by up to how many connectors Define rooms using ScriptableObjects Gurantee the spawn of rooms marked as MustSpawn Place rooms which occupy more than 1 cell (as long as room exits are within the same cell) Gurantee that all generated rooms are reachable Fully deterministic Documentation and Tech Overview Google Doc&#xD;</description>
     </item>
   </channel>

@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfoliotags on Gasimo</title>
-    <link>uild/portfoliotags/</link>
+    <link>https://gasimo.dev/portfoliotags/</link>
     <description>Recent content in Portfoliotags on Gasimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="uild/portfoliotags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gasimo.dev/portfoliotags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shader</title>
-      <link>uild/portfolio/tags/Shader/</link>
+      <link>https://gasimo.dev/portfolio/tags/Shader/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/tags/Shader/</guid>
+      <guid>https://gasimo.dev/portfolio/tags/Shader/</guid>
       <description></description>
     </item>
     <item>
       <title>Unity3D</title>
-      <link>uild/portfolio/tags/Unity3D/</link>
+      <link>https://gasimo.dev/portfolio/tags/Unity3D/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/tags/Unity3D/</guid>
+      <guid>https://gasimo.dev/portfolio/tags/Unity3D/</guid>
       <description></description>
     </item>
     <item>
       <title>C#</title>
-      <link>uild/portfolio/tags/C/</link>
+      <link>https://gasimo.dev/portfolio/tags/C/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/tags/C/</guid>
+      <guid>https://gasimo.dev/portfolio/tags/C/</guid>
       <description></description>
     </item>
     <item>
       <title>Featured</title>
-      <link>uild/portfolio/tags/Featured/</link>
+      <link>https://gasimo.dev/portfolio/tags/Featured/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/tags/Featured/</guid>
+      <guid>https://gasimo.dev/portfolio/tags/Featured/</guid>
       <description></description>
     </item>
     <item>
       <title>FlaxEngine</title>
-      <link>uild/portfolio/tags/FlaxEngine/</link>
+      <link>https://gasimo.dev/portfolio/tags/FlaxEngine/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/tags/FlaxEngine/</guid>
+      <guid>https://gasimo.dev/portfolio/tags/FlaxEngine/</guid>
       <description></description>
     </item>
     <item>
       <title>Unity</title>
-      <link>uild/portfolio/tags/Unity/</link>
+      <link>https://gasimo.dev/portfolio/tags/Unity/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/tags/Unity/</guid>
+      <guid>https://gasimo.dev/portfolio/tags/Unity/</guid>
       <description></description>
     </item>
     <item>
       <title>Figma</title>
-      <link>uild/portfolio/tags/Figma/</link>
+      <link>https://gasimo.dev/portfolio/tags/Figma/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/tags/Figma/</guid>
+      <guid>https://gasimo.dev/portfolio/tags/Figma/</guid>
       <description></description>
     </item>
     <item>
       <title>Illustrations</title>
-      <link>uild/portfolio/tags/Illustrations/</link>
+      <link>https://gasimo.dev/portfolio/tags/Illustrations/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/tags/Illustrations/</guid>
+      <guid>https://gasimo.dev/portfolio/tags/Illustrations/</guid>
       <description></description>
     </item>
     <item>
       <title>Games</title>
-      <link>uild/portfolio/tags/Games/</link>
+      <link>https://gasimo.dev/portfolio/tags/Games/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/tags/Games/</guid>
+      <guid>https://gasimo.dev/portfolio/tags/Games/</guid>
       <description></description>
     </item>
     <item>
       <title>Multiplayer</title>
-      <link>uild/portfolio/tags/Multiplayer/</link>
+      <link>https://gasimo.dev/portfolio/tags/Multiplayer/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/tags/Multiplayer/</guid>
+      <guid>https://gasimo.dev/portfolio/tags/Multiplayer/</guid>
       <description></description>
     </item>
   </channel>
