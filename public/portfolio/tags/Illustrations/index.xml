@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Illustrations on Gasimo</title>
-    <link>https://gasimo.dev/portfolio/tags/Illustrations/</link>
+    <link>uild/portfolio/tags/Illustrations/</link>
     <description>Recent content in Illustrations on Gasimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gasimo.dev/portfolio/tags/Illustrations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="uild/portfolio/tags/Illustrations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flax Engine Icon Pack</title>
-      <link>https://gasimo.dev/portfolio/FlaxIcons/</link>
+      <link>uild/portfolio/FlaxIcons/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/FlaxIcons/</guid>
+      <guid>uild/portfolio/FlaxIcons/</guid>
       <description>A set of icons I made for the Flax Engine, open to be used by anyone making engines/engine tools.</description>
     </item>
     <item>
       <title>Misc - ArtStation</title>
-      <link>https://gasimo.dev/portfolio/SCP-Cartoon-Illustrations/</link>
+      <link>uild/portfolio/SCP-Cartoon-Illustrations/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/SCP-Cartoon-Illustrations/</guid>
+      <guid>uild/portfolio/SCP-Cartoon-Illustrations/</guid>
       <description></description>
     </item>
     <item>
       <title>Reality Check (GameJam Platformer)</title>
-      <link>https://gasimo.dev/portfolio/RealityCheck/</link>
+      <link>uild/portfolio/RealityCheck/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/RealityCheck/</guid>
+      <guid>uild/portfolio/RealityCheck/</guid>
       <description>Short 48hours GameJam platformer made in Unity URP about a silly wizard who can shift between worlds.</description>
     </item>
     <item>
       <title>Fragmented Minds (UI)</title>
-      <link>https://gasimo.dev/portfolio/Fragmented-Minds-UI/</link>
+      <link>uild/portfolio/Fragmented-Minds-UI/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/Fragmented-Minds-UI/</guid>
+      <guid>uild/portfolio/Fragmented-Minds-UI/</guid>
       <description>I have provided Concept Art (Illustrator, Playable mockups in Unity) for the User Interface of the game. Notably for the PDA, HUD &amp;amp; in-universe devices.</description>
     </item>
   </channel>

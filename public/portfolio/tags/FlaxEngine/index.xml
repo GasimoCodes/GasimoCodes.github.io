@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FlaxEngine on Gasimo</title>
-    <link>https://gasimo.dev/portfolio/tags/FlaxEngine/</link>
+    <link>uild/portfolio/tags/FlaxEngine/</link>
     <description>Recent content in FlaxEngine on Gasimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gasimo.dev/portfolio/tags/FlaxEngine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="uild/portfolio/tags/FlaxEngine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CineBlend</title>
-      <link>https://gasimo.dev/portfolio/CineBlend/</link>
+      <link>uild/portfolio/CineBlend/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/CineBlend/</guid>
+      <guid>uild/portfolio/CineBlend/</guid>
       <description>Virtual Camera Framework for Flax Engine</description>
     </item>
   </channel>

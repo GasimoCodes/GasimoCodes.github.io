@@ -34,7 +34,7 @@ disablePathToLower = true
   
 
   # Custom copyright - optional
-  copyright = ""
+  copyright = "<span class=\"text-base\">© 2025 <a href=\"https://gasimo.dev/\">Gasimo</a> <i>- Made in Czech Republic</i></span>"
   favicon = "/logo.png"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -159,7 +159,7 @@ disablePathToLower = true
 
     [[menu.main]]
     name = "Patreon"
-    url = "https://www.patreon.com/StormingSummit"
+    url = "https://patreon.com/gasimo"
     weight = "4"
 
 

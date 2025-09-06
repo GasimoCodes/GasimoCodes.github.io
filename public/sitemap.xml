@@ -2,136 +2,138 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gasimo.dev/portfolio/</loc>
+    <loc>uild/portfolio/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfoliotags/</loc>
+    <loc>uild/portfoliotags/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/tags/Shader/</loc>
+    <loc>uild/portfolio/tags/Shader/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/TektronixRenderer/</loc>
+    <loc>uild/portfolio/TektronixRenderer/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/tags/Unity3D/</loc>
+    <loc>uild/portfolio/tags/Unity3D/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/</loc>
+    <loc>uild/blog/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/tags/C/</loc>
+    <loc>uild/portfolio/tags/C/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/CineBlend/</loc>
+    <loc>uild/portfolio/CineBlend/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/CineBlendAlpha/</loc>
+    <loc>uild/blog/CineBlendAlpha/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/tags/Featured/</loc>
+    <loc>uild/portfolio/tags/Featured/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/tags/FlaxEngine/</loc>
+    <loc>uild/portfolio/tags/FlaxEngine/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/etherdev9/</loc>
+    <loc>uild/blog/etherdev9/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/interactarelease/</loc>
+    <loc>uild/blog/interactarelease/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/Interacta/</loc>
+    <loc>uild/portfolio/Interacta/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/tags/Unity/</loc>
+    <loc>uild/portfolio/tags/Unity/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/etherdev8/</loc>
+    <loc>uild/blog/etherdev8/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/etherdev7/</loc>
+    <loc>uild/blog/etherdev7/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/etherdev6/</loc>
+    <loc>uild/blog/etherdev6/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/etherdev5/</loc>
+    <loc>uild/blog/etherdev5/</loc>
     <lastmod>2024-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/fungoriacheckgamejam/</loc>
+    <loc>uild/blog/fungoriacheckgamejam/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/etherdev4/</loc>
+    <loc>uild/blog/etherdev4/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/</loc>
+    <loc>uild/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/tags/Figma/</loc>
+    <loc>uild/portfolio/tags/Figma/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/FlaxIcons/</loc>
+    <loc>uild/portfolio/FlaxIcons/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/tags/Illustrations/</loc>
+    <loc>uild/portfolio/tags/Illustrations/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/Subtitler/</loc>
+    <loc>uild/portfolio/Subtitler/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/etherdev3/</loc>
+    <loc>uild/blog/etherdev3/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/realitycheckgamejam/</loc>
+    <loc>uild/blog/realitycheckgamejam/</loc>
     <lastmod>2023-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/nightshifttech2/</loc>
+    <loc>uild/blog/nightshifttech2/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/nightshifttech3/</loc>
+    <loc>uild/blog/nightshifttech3/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/nightshifttech1/</loc>
+    <loc>uild/blog/nightshifttech1/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/etherdev2/</loc>
+    <loc>uild/blog/etherdev2/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/etherdev1/</loc>
+    <loc>uild/blog/etherdev1/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/blog/etherdev0/</loc>
+    <loc>uild/blog/etherdev0/</loc>
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/tags/Games/</loc>
+    <loc>uild/portfolio/tags/Games/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/SCP-Cartoon-Illustrations/</loc>
+    <loc>uild/portfolio/SCP-Cartoon-Illustrations/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/RealityCheck/</loc>
+    <loc>uild/portfolio/RealityCheck/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/JecnaNightshift/</loc>
+    <loc>uild/portfolio/JecnaNightshift/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/tags/Multiplayer/</loc>
+    <loc>uild/portfolio/tags/Multiplayer/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/SCPCS/</loc>
+    <loc>uild/portfolio/SCPCS/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/NewGen/</loc>
+    <loc>uild/portfolio/NewGen/</loc>
     <lastmod>2022-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/portfolio/Fragmented-Minds-UI/</loc>
+    <loc>uild/portfolio/Fragmented-Minds-UI/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gasimo.dev/contact/</loc>
+    <loc>uild/contact/</loc>
   </url><url>
-    <loc>https://gasimo.dev/games/</loc>
+    <loc>uild/games/</loc>
   </url><url>
-    <loc>https://gasimo.dev/roxxyewe/</loc>
+    <loc>uild/roxxyewe/</loc>
+  </url><url>
+    <loc>uild/games/roxxyewe/</loc>
   </url>
 </urlset>

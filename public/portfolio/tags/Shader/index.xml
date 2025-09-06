@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shader on Gasimo</title>
-    <link>https://gasimo.dev/portfolio/tags/Shader/</link>
+    <link>uild/portfolio/tags/Shader/</link>
     <description>Recent content in Shader on Gasimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gasimo.dev/portfolio/tags/Shader/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="uild/portfolio/tags/Shader/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tektronix Compute SVG Renderer</title>
-      <link>https://gasimo.dev/portfolio/TektronixRenderer/</link>
+      <link>uild/portfolio/TektronixRenderer/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://gasimo.dev/portfolio/TektronixRenderer/</guid>
+      <guid>uild/portfolio/TektronixRenderer/</guid>
       <description>Minimal SVG Renderer in the style of Tektronix 401x utilizing GPU Compute for animated rasterization</description>
     </item>
   </channel>
