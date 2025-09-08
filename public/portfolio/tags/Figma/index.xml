@@ -4,7 +4,7 @@
     <title>Figma on Gasimo</title>
     <link>https://gasimo.dev/portfolio/tags/Figma/</link>
     <description>Recent content in Figma on Gasimo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gasimo.dev/portfolio/tags/Figma/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://gasimo.dev/portfolio/FlaxIcons/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/FlaxIcons/</guid>
-      <description>A set of icons I made for the Flax Engine, open to be used by anyone making engines/engine tools.</description>
+      <description>&lt;p&gt;A set of icons I made for the Flax Engine, open to be used by anyone making engines/engine tools.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

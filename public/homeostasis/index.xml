@@ -4,7 +4,7 @@
     <title>Home on Gasimo</title>
     <link>https://gasimo.dev/homeostasis/</link>
     <description>Recent content in Home on Gasimo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gasimo.dev/homeostasis/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,14 @@
       <link>https://gasimo.dev/homeostasis/tech/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/homeostasis/tech/</guid>
-      <description>To-do</description>
+      <description>&lt;p&gt;To-do&lt;/p&gt;</description>
     </item>
     <item>
       <title>Press Kit</title>
       <link>https://gasimo.dev/homeostasis/presskit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/homeostasis/presskit/</guid>
-      <description>https://drive.google.com/drive/folders/1Mk25VJ6gX_G3eo4hANdMHZowEzkMLyjf?usp=sharing&#xD;Title: Homeostasis&#xA;Release: TBA&#xA;Platforms: PC (Windows)&#xA;Available on: Steam, Itch.io&#xA;Developer: Gasimo, Saas</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1Mk25VJ6gX_G3eo4hANdMHZowEzkMLyjf?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://drive.google.com/drive/folders/1Mk25VJ6gX_G3eo4hANdMHZowEzkMLyjf?usp=sharing&lt;/a&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h3 id=&#34;title&#34;&gt;Title:&lt;/h3&gt;&#xA;&lt;p&gt;Homeostasis&lt;/p&gt;&#xA;&lt;h3 id=&#34;release&#34;&gt;Release:&lt;/h3&gt;&#xA;&lt;p&gt;TBA&lt;/p&gt;&#xA;&lt;h3 id=&#34;platforms&#34;&gt;Platforms:&lt;/h3&gt;&#xA;&lt;p&gt;PC (Windows)&lt;/p&gt;&#xA;&lt;h3 id=&#34;available-on&#34;&gt;Available on:&lt;/h3&gt;&#xA;&lt;p&gt;Steam, Itch.io&lt;/p&gt;&#xA;&lt;h3 id=&#34;developer&#34;&gt;Developer:&lt;/h3&gt;&#xA;&lt;p&gt;Gasimo, Saas&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

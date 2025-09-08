@@ -4,7 +4,7 @@
     <title>FlaxEngine on Gasimo</title>
     <link>https://gasimo.dev/portfolio/tags/FlaxEngine/</link>
     <description>Recent content in FlaxEngine on Gasimo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gasimo.dev/portfolio/tags/FlaxEngine/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://gasimo.dev/portfolio/CineBlend/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://gasimo.dev/portfolio/CineBlend/</guid>
-      <description>Virtual Camera Framework for Flax Engine</description>
+      <description>&lt;p&gt;Virtual Camera Framework for Flax Engine&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
