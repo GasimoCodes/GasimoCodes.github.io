@@ -33,6 +33,14 @@ disablePathToLower = true
 
   
 
+# Opengraph
+  description = 'The lair of Gasimo'
+  images = ['logo.png']
+  title = 'Gasimo'
+
+
+
+
   # Custom copyright - optional
   copyright = "<span class=\"text-base\">© 2025 <a href=\"https://gasimo.dev/\">Gasimo</a> <i>- Made in Czech Republic</i></span>"
   favicon = "/logo.png"
@@ -168,6 +176,7 @@ disablePathToLower = true
     name = "Patreon"
     url = "https://patreon.com/gasimo"
     weight = "4"
+
 
 
 

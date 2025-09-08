@@ -1,24 +1,3 @@
-{{ define "header-content" }}
-  {{ range .Site.Menus.homeostasis }}
-    {{ if .HasChildren }}
-      <li class="relative cursor-pointer">
-        <span class="menu-switcher flex items-center gap-2">
-          <a href="#" class="block">{{ .Name }}</a>
-          <!-- dropdown arrow svg -->
-        </span>
-        <div class="menu-dropdown absolute top-full mt-2 left-0 flex-col gap-4 bg-gray-100 dark:bg-gray-900 z-10 hidden w-48">
-          {{ range .Children }}
-            <a class="episode-title px-3 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 block" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-          {{ end }}
-        </div>
-      </li>
-    {{ else }}
-      <li><a href="{{ .URL | relLangURL }}" class="block">{{ .Name }}</a></li>
-    {{ end }}
-  {{ end }}
-{{ end }}
-
-
 {{ define "main" }}
   {{ $lastmodstr := (partial "date.html" (dict "date" .Lastmod "language" $.Page.Language "format" "long")) }}
   {{ $datestr := (partial "date.html" (dict "date" .Date "language" $.Page.Language "format" "long")) }}
@@ -90,4 +69,5 @@
 
   {{- partial "comments.html" . -}}
 
+  
 {{ end }}
