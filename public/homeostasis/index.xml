@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Gasimo</title>
-    <link>uild/homeostasis/</link>
+    <link>http://localhost:1313/homeostasis/</link>
     <description>Recent content in Home on Gasimo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="uild/homeostasis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/homeostasis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech</title>
-      <link>uild/homeostasis/tech/</link>
+      <link>http://localhost:1313/homeostasis/tech/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>uild/homeostasis/tech/</guid>
+      <guid>http://localhost:1313/homeostasis/tech/</guid>
       <description>&lt;p&gt;To-do&lt;/p&gt;</description>
     </item>
     <item>
       <title>Press Kit</title>
-      <link>uild/homeostasis/presskit/</link>
+      <link>http://localhost:1313/homeostasis/presskit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>uild/homeostasis/presskit/</guid>
+      <guid>http://localhost:1313/homeostasis/presskit/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1Mk25VJ6gX_G3eo4hANdMHZowEzkMLyjf?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://drive.google.com/drive/folders/1Mk25VJ6gX_G3eo4hANdMHZowEzkMLyjf?usp=sharing&lt;/a&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h3 id=&#34;title&#34;&gt;Title:&lt;/h3&gt;&#xA;&lt;p&gt;Homeostasis&lt;/p&gt;&#xA;&lt;h3 id=&#34;release&#34;&gt;Release:&lt;/h3&gt;&#xA;&lt;p&gt;TBA&lt;/p&gt;&#xA;&lt;h3 id=&#34;platforms&#34;&gt;Platforms:&lt;/h3&gt;&#xA;&lt;p&gt;PC (Windows)&lt;/p&gt;&#xA;&lt;h3 id=&#34;available-on&#34;&gt;Available on:&lt;/h3&gt;&#xA;&lt;p&gt;Steam, Itch.io&lt;/p&gt;&#xA;&lt;h3 id=&#34;developer&#34;&gt;Developer:&lt;/h3&gt;&#xA;&lt;p&gt;Gasimo, Saas&lt;/p&gt;</description>
     </item>
   </channel>

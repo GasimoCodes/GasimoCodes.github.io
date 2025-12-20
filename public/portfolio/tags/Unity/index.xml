@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unity on Gasimo</title>
-    <link>uild/portfolio/tags/Unity/</link>
+    <link>http://localhost:1313/portfolio/tags/Unity/</link>
     <description>Recent content in Unity on Gasimo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="uild/portfolio/tags/Unity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/tags/Unity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interacta Interaction Framework</title>
-      <link>uild/portfolio/Interacta/</link>
+      <link>http://localhost:1313/portfolio/Interacta/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/Interacta/</guid>
+      <guid>http://localhost:1313/portfolio/Interacta/</guid>
       <description>&lt;p&gt;Spherecast-based interaction framework for selecting items the player is looking at.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Subtitler (Closed-Captions)</title>
-      <link>uild/portfolio/Subtitler/</link>
+      <link>http://localhost:1313/portfolio/Subtitler/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/Subtitler/</guid>
+      <guid>http://localhost:1313/portfolio/Subtitler/</guid>
       <description>&lt;p&gt;A powerful Subtitling/Closed-Captions solution for Unity with SRTs, Multiplay, Timeline, Localization and more.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reality Check (GameJam Platformer)</title>
-      <link>uild/portfolio/RealityCheck/</link>
+      <link>http://localhost:1313/portfolio/RealityCheck/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/RealityCheck/</guid>
+      <guid>http://localhost:1313/portfolio/RealityCheck/</guid>
       <description>&lt;p&gt;Short 48hours GameJam platformer made in Unity URP about a silly wizard who can shift between worlds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ječná Nightshift</title>
-      <link>uild/portfolio/JecnaNightshift/</link>
+      <link>http://localhost:1313/portfolio/JecnaNightshift/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/JecnaNightshift/</guid>
+      <guid>http://localhost:1313/portfolio/JecnaNightshift/</guid>
       <description>&lt;p&gt;Ječná Nightshift is a short semi-serious single-player horror game, where you assume the role of a schoolkeeper at Ječná, a fictional mid school in Prague. Each night shift brings new mechanics, places to explore and secrets to reveal. Made with Unity &amp;amp; HDRP.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SCP: Classified Site</title>
-      <link>uild/portfolio/SCPCS/</link>
+      <link>http://localhost:1313/portfolio/SCPCS/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/SCPCS/</guid>
+      <guid>http://localhost:1313/portfolio/SCPCS/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/gtHT1ecY4KU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;SCP Classified Site is a Unity Crossplatform Multiplayer game I co-founded and developed alongside Aizyka.&lt;/p&gt;&#xA;&lt;p&gt;Notable things I have developed for CS is the &lt;strong&gt;Spherecast-based Interaction System&lt;/strong&gt;, &lt;strong&gt;Inventory &amp;amp; Item Logic&lt;/strong&gt; and Architecture and &lt;strong&gt;Random Map Generator&lt;/strong&gt;. In the first year after release the game obtained over 1 milion downloads from the Play Store alone.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Map Generation System (SCP:CS)</title>
-      <link>uild/portfolio/NewGen/</link>
+      <link>http://localhost:1313/portfolio/NewGen/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>uild/portfolio/NewGen/</guid>
-      <description>&lt;p&gt;Mapgen is a tool formerly developed for SCP: Classified Site, but later open-sourced and reused in Ječná Nightshift to generate a randomized secret bonus level.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/GasimoCodes/MapGen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;uild/media/img/Posts/Portfolio/NewGenDiagram.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Generate N amount of zones&lt;/li&gt;&#xA;&lt;li&gt;Pick up custom zone size and set of rooms to occupy each zone&lt;/li&gt;&#xA;&lt;li&gt;Select which zones to connect and by up to how many connectors&lt;/li&gt;&#xA;&lt;li&gt;Define rooms using ScriptableObjects&lt;/li&gt;&#xA;&lt;li&gt;Gurantee the spawn of rooms marked as MustSpawn&lt;/li&gt;&#xA;&lt;li&gt;Place rooms which occupy more than 1 cell (as long as room exits are within the same cell)&lt;/li&gt;&#xA;&lt;li&gt;Gurantee that all generated rooms are reachable&lt;/li&gt;&#xA;&lt;li&gt;Fully deterministic&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;documentation-and-tech-overview&#34;&gt;Documentation and Tech Overview&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1rY4tgInwJ9if1UFdFK7_NyAuGlZ8Y0QX9g3KuYgEy9A/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Doc&lt;/a&gt;&#xD;&#xA;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/portfolio/NewGen/</guid>
+      <description>&lt;p&gt;Mapgen is a tool formerly developed for SCP: Classified Site, but later open-sourced and reused in Ječná Nightshift to generate a randomized secret bonus level.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/GasimoCodes/MapGen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/media/img/Posts/Portfolio/NewGenDiagram.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Generate N amount of zones&lt;/li&gt;&#xA;&lt;li&gt;Pick up custom zone size and set of rooms to occupy each zone&lt;/li&gt;&#xA;&lt;li&gt;Select which zones to connect and by up to how many connectors&lt;/li&gt;&#xA;&lt;li&gt;Define rooms using ScriptableObjects&lt;/li&gt;&#xA;&lt;li&gt;Gurantee the spawn of rooms marked as MustSpawn&lt;/li&gt;&#xA;&lt;li&gt;Place rooms which occupy more than 1 cell (as long as room exits are within the same cell)&lt;/li&gt;&#xA;&lt;li&gt;Gurantee that all generated rooms are reachable&lt;/li&gt;&#xA;&lt;li&gt;Fully deterministic&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;documentation-and-tech-overview&#34;&gt;Documentation and Tech Overview&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1rY4tgInwJ9if1UFdFK7_NyAuGlZ8Y0QX9g3KuYgEy9A/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Doc&lt;/a&gt;&#xD;&#xA;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
