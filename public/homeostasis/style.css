@@ -133,14 +133,14 @@ header {
 /* Hero Section Styles */
 .hero {
     
-    padding-top: 100px;
+    padding-top: 150px;
 
     background-color: #F9F2ED;
     background-image: url("./page\ background.png");
     background-size: cover;
     min-height: 600px;
 
-    padding-bottom: 300px;
+    padding-bottom: 200px;
     line-height: 1.2; /* or leading-none in Tailwind */
 }
 
@@ -259,7 +259,7 @@ header {
 
 
 /* Responsive Styles */
-@media (max-width: 768px) {
+@media (max-width: 1500px) {
 
 
     .hero h1 {
