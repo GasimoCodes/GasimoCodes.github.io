@@ -2,146 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/homeostasis/</loc>
+    <loc>https://gasimo.dev/homeostasis/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>https://gasimo.dev/portfolio/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfoliotags/</loc>
+    <loc>https://gasimo.dev/portfoliotags/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tags/Shader/</loc>
+    <loc>https://gasimo.dev/portfolio/tags/Shader/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/TektronixRenderer/</loc>
+    <loc>https://gasimo.dev/portfolio/TektronixRenderer/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tags/Unity3D/</loc>
+    <loc>https://gasimo.dev/portfolio/tags/Unity3D/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://gasimo.dev/blog/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tags/C/</loc>
+    <loc>https://gasimo.dev/portfolio/tags/C/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/CineBlend/</loc>
+    <loc>https://gasimo.dev/portfolio/CineBlend/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/CineBlendAlpha/</loc>
+    <loc>https://gasimo.dev/blog/CineBlendAlpha/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tags/Featured/</loc>
+    <loc>https://gasimo.dev/portfolio/tags/Featured/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tags/FlaxEngine/</loc>
+    <loc>https://gasimo.dev/portfolio/tags/FlaxEngine/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/etherdev9/etherdev9/</loc>
+    <loc>https://gasimo.dev/blog/etherdev9/etherdev9/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/homeostasis/tech/</loc>
+    <loc>https://gasimo.dev/homeostasis/tech/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/interactarelease/</loc>
+    <loc>https://gasimo.dev/blog/interactarelease/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/Interacta/</loc>
+    <loc>https://gasimo.dev/portfolio/Interacta/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tags/Unity/</loc>
+    <loc>https://gasimo.dev/portfolio/tags/Unity/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/etherdev8/</loc>
+    <loc>https://gasimo.dev/blog/etherdev8/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/etherdev7/</loc>
+    <loc>https://gasimo.dev/blog/etherdev7/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/etherdev6/</loc>
+    <loc>https://gasimo.dev/blog/etherdev6/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/etherdev5/</loc>
+    <loc>https://gasimo.dev/blog/etherdev5/</loc>
     <lastmod>2024-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/fungoriacheckgamejam/</loc>
+    <loc>https://gasimo.dev/blog/fungoriacheckgamejam/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/etherdev4/</loc>
+    <loc>https://gasimo.dev/blog/etherdev4/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://gasimo.dev/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tags/Figma/</loc>
+    <loc>https://gasimo.dev/portfolio/tags/Figma/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/FlaxIcons/</loc>
+    <loc>https://gasimo.dev/portfolio/FlaxIcons/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tags/Illustrations/</loc>
+    <loc>https://gasimo.dev/portfolio/tags/Illustrations/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/Subtitler/</loc>
+    <loc>https://gasimo.dev/portfolio/Subtitler/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/etherdev3/</loc>
+    <loc>https://gasimo.dev/blog/etherdev3/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/realitycheckgamejam/</loc>
+    <loc>https://gasimo.dev/blog/realitycheckgamejam/</loc>
     <lastmod>2023-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/nightshifttech2/</loc>
+    <loc>https://gasimo.dev/blog/nightshifttech2/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/nightshifttech3/</loc>
+    <loc>https://gasimo.dev/blog/nightshifttech3/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/nightshifttech1/</loc>
+    <loc>https://gasimo.dev/blog/nightshifttech1/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/etherdev2/</loc>
+    <loc>https://gasimo.dev/blog/etherdev2/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/etherdev1/</loc>
+    <loc>https://gasimo.dev/blog/etherdev1/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/etherdev0/</loc>
+    <loc>https://gasimo.dev/blog/etherdev0/</loc>
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tags/Games/</loc>
+    <loc>https://gasimo.dev/portfolio/tags/Games/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/SCP-Cartoon-Illustrations/</loc>
+    <loc>https://gasimo.dev/portfolio/SCP-Cartoon-Illustrations/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/RealityCheck/</loc>
+    <loc>https://gasimo.dev/portfolio/RealityCheck/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/JecnaNightshift/</loc>
+    <loc>https://gasimo.dev/portfolio/JecnaNightshift/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tags/Multiplayer/</loc>
+    <loc>https://gasimo.dev/portfolio/tags/Multiplayer/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/SCPCS/</loc>
+    <loc>https://gasimo.dev/portfolio/SCPCS/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/NewGen/</loc>
+    <loc>https://gasimo.dev/portfolio/NewGen/</loc>
     <lastmod>2022-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/Fragmented-Minds-UI/</loc>
+    <loc>https://gasimo.dev/portfolio/Fragmented-Minds-UI/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://gasimo.dev/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/games/</loc>
+    <loc>https://gasimo.dev/games/</loc>
   </url><url>
-    <loc>http://localhost:1313/roxxyewe/</loc>
+    <loc>https://gasimo.dev/roxxyewe/</loc>
   </url><url>
-    <loc>http://localhost:1313/homeostasis/presskit/</loc>
+    <loc>https://gasimo.dev/homeostasis/presskit/</loc>
   </url><url>
-    <loc>http://localhost:1313/games/roxxyewe/</loc>
+    <loc>https://gasimo.dev/games/roxxyewe/</loc>
   </url>
 </urlset>

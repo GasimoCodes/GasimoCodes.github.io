@@ -192,7 +192,7 @@ header {
 .feature {
     display: flex;
     gap: 50px;
-    align-items: flex-start;
+    align-items: center;
     margin-bottom: 50px;
 }
 

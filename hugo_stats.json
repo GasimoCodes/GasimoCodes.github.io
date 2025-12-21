@@ -48,7 +48,6 @@
       "unityaction"
     ],
     "classes": [
-      "-z-10",
       "absolute",
       "background-image",
       "bg-black",
@@ -139,6 +138,7 @@
       "h-24",
       "h-4",
       "h-48",
+      "h-5",
       "h-64",
       "h-8",
       "h-full",
