@@ -73,6 +73,54 @@
     .image-placeholder.hover3D {
         cursor: pointer;
     }
+
+/* Snow container */
+.snow-overlay {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1;
+}
+
+/* Shared settings */
+.snow-overlay,
+.snow-overlay::before {
+    background-image: url("./snow.png");
+    background-repeat: repeat;
+    mix-blend-mode: lighten;
+}
+
+/* ---------- FAR SNOW (slow, larger flakes) ---------- */
+.snow-overlay {
+    opacity: 0.15;
+    background-size: 2600px 2600px;
+
+    animation: snowFar 35s linear infinite;
+}
+
+/* ---------- NEAR SNOW (faster, smaller flakes) ---------- */
+.snow-overlay::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+
+    opacity: 0.35;
+    background-size: 4000px 4000px;
+
+    animation: snowNear 14s linear infinite;
+}
+
+/* Animations */
+@keyframes snowFar {
+    from { background-position: 0 0; }
+    to   { background-position: -600px 1200px; }
+}
+
+@keyframes snowNear {
+    from { background-position: 0 0; }
+    to   { background-position: -1400px 2200px; }
+}
+
 </style>
 
 {{ end }}
@@ -120,7 +168,10 @@
 {{define "main"}}
 
 
-<div class="hero relative text-left text-white">
+<div class="hero relative text-left text-white  overflow-hidden">
+
+
+            <div class="snow-overlay"></div>
 
     <!--
     <video autoplay muted loop playsinline class="absolute top-0 left-0 w-full h-full object-cover -z-10">
@@ -130,11 +181,15 @@
 
     <!-- Hero content -->
     <div class="container relative z-10">
+
+
+
         <img src="./logo.png" alt="Homeostasis Logo" class="h-24 mb-4">
 
         <p class="subtitle px-2" style="text-shadow: 2px 1px 2px black;">
             Navigate a desolate snowscape in your lone vehicle, keep your systems running, and unravel unsettling clues about the last expedition in this short retro survival horror experience.
         </p>
+
         <br>
         <br>
 
@@ -152,6 +207,8 @@
                 Sign up for Mailing List
             </a>
 
+            
+
         </div>
     </div>
 
@@ -164,35 +221,43 @@
 
 
 
-<br>
-
 <div class="container text-white">
     <div class="content">
 
+                <iframe src="https://store.steampowered.com/widget/3748480/"  style="width: 100%; height: 190px;" frameborder="0"></iframe>
 
+                <br>
+                <br>
 
         <div class="feature">
             <img class="image-placeholder hover3D clickable-image border-blue-300 border-2" src="./Screenshots/Frame 104.png" alt="Feature Image 1">
             <div class="feature-content">
                 <h2>You're humanity's only boots on the ground.</h2>
                 <p>
-                    A frozen wasteland stretches endlessly before you. Sent to a remote Antarctic region, you're tasked with a critical mission: assess its habitability for future colonization.
+                    A frozen wasteland stretches endlessly before you. Sent to a remote Antarctic region, you’re tasked with a critical mission: assess its habitability for future colonization.
                 </p>
 
-            </div>
-        </div>
-
-
-        <div class="feature">
-            <img class="image-placeholder hover3D clickable-image border-blue-300 border-2" src="./Screenshots/Frame 105.png" alt="Feature Image 2">
-            <div class="feature-content">
                 <p>
                     <span style="color: rgb(220, 20, 20);">Manage resources, document key sites, and survive</span> long enough to finish the job and return home.
                 </p>
 
+            </div>
+        </div>
+        
+        <div class="feature">
+            <img class="image-placeholder hover3D clickable-image border-blue-300 border-2" src="./Screenshots/Frame 105.png" alt="Feature Image 2">
+            <div class="feature-content">
+
+                <h2>The Machine</h2>
+
                 <p>
-                   Outfitted with a <span style="color: rgb(220, 20, 20);">mechanical arm</span> and <span style="color: rgb(220, 20, 20);">vital instrumentation</span>, it's your most valuable tool in the snow.
+                   ARPC has issued you a <span style="color: rgb(220, 20, 20);">retrofitted antarctic off-road vehicle</span>.
                 </p>
+
+                <p>
+                    Outfitted with a <span style="color: rgb(220, 20, 20);">mechanical arm</span> and vital instrumentation, it’s your most valuable tool in the snow. 
+                </p>
+
             </div>
         </div>
 
@@ -200,7 +265,12 @@
         <div class="feature">
             <img class="image-placeholder hover3D clickable-image border-blue-300 border-2" src="./Screenshots/Frame 100.png" alt="Feature Image 3">
             <div class="feature-content">
-                <p>Balance <span style="color: rgb(220, 20, 20);">fuel, heat, and power</span> to keep both you and your vehicle operational.</p>
+                <p>
+                    Maintain your vehicle, manage <span style="color: rgb(220, 20, 20);">fuel</span> and <span style="color: rgb(220, 20, 20);">temperature</span>, and minimize exposure to the brutal Antarctic elements.
+                </p>
+
+                
+
             </div>
         </div>
 
