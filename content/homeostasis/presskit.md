@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1Mk25VJ6gX_G3eo4hANdMHZowEzkMLyjf?usp=sha
 Homeostasis
 
 ### Release:
-TBA
+July 2026
 
 ### Platforms:
 PC (Windows)

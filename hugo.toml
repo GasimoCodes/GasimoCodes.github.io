@@ -112,29 +112,47 @@ disablePathToLower = true
     website = "linkedin"
     url = "https://www.linkedin.com/in/prokop-svacina/"
 
+  [[params.homepage.social.icons]]
+    website = "instagram"
+    url = "https://www.instagram.com/realgasimo/"
+
+  [[params.homepage.social.icons]]
+    website = "x"
+    url = "https://x.com/RealGasimo"
+
+  [[params.homepage.social.icons]]
+    website = "bluesky"
+    url = "https://bsky.app/profile/gasimo.dev"
 
 
 [menu]
 [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = "1"
+    name = "Games"
+    identifier = "games"  # Unique identifier for nested items
+    url = "#"
+    weight = 1
+
+  [[menu.main]]
+    name = "Homeostasis"
+    url = "/Homeostasis/"
+    parent = "games"      # Link to parent identifier
+    weight = 1
 
 [[menu.main]]
     name = "Blog"
     url = "blog"
-    weight = "2"
+    weight = "3"
 
 [[menu.main]]
     name = "Portfolio"
     url = "/portfolio"
-    weight = "2"
+    weight = "3"
 
 [[menu.main]]
     name = "Plugins"
     identifier = "plug"  # Unique identifier for nested items
     url = "#"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "Subtitler"
