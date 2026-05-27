@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unity3D on Gasimo</title>
-    <link>http://localhost:1313/portfolio/tags/Unity3D/</link>
+    <link>https://gasimo.dev/portfolio/tags/Unity3D/</link>
     <description>Recent content in Unity3D on Gasimo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/tags/Unity3D/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gasimo.dev/portfolio/tags/Unity3D/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tektronix Compute SVG Renderer</title>
-      <link>http://localhost:1313/portfolio/TektronixRenderer/</link>
+      <link>https://gasimo.dev/portfolio/TektronixRenderer/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/TektronixRenderer/</guid>
+      <guid>https://gasimo.dev/portfolio/TektronixRenderer/</guid>
       <description>&lt;p&gt;Minimal SVG Renderer in the style of Tektronix 401x utilizing GPU Compute for animated rasterization&lt;/p&gt;</description>
     </item>
   </channel>
