@@ -134,7 +134,7 @@ disablePathToLower = true
 
   [[menu.main]]
     name = "Homeostasis"
-    url = "/Homeostasis/"
+    url = "/homeostasis/"
     parent = "games"      # Link to parent identifier
     weight = 1
 

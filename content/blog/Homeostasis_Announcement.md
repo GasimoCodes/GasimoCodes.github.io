@@ -10,7 +10,7 @@ Homeostasis is a short atmospheric survival horror game I've been working on alo
 
 Set in a remote Antarctic research zone, you were assigned an old research vehicle and tasked to recover abandoned scientific data that could help humanity determine whether the region is truly habitable.
 
-[WISHLIST HERE!](https://store.steampowered.com/app/3748480/Homeostasis/) or check out the game's [website here](/Homeostasis)
+[WISHLIST HERE!](https://store.steampowered.com/app/3748480/Homeostasis/) or check out the game's [website here](/homeostasis)
 
 {{< youtube 9l6pPYRWKBQ >}}
 
